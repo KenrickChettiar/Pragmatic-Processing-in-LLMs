@@ -1,0 +1,1002 @@
+[
+    {
+        "sample_id": 1,
+        "score": 4,
+        "reason": "The model partially captures the intention of expressing cautious interest in short stories, but lacks nuance and specificity"
+    },
+    {
+        "sample_id": 2,
+        "score": 6,
+        "reason": "The model identifies the speaker's stress and heart rate, but doesn't connect it to the dessert context"
+    },
+    {
+        "sample_id": 3,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention of providing clear, direct advice for future improvement."
+    },
+    {
+        "sample_id": 4,
+        "score": 2,
+        "reason": "response mentions the manager's dissatisfaction but lacks the shared accountability and urgency emphasis"
+    },
+    {
+        "sample_id": 5,
+        "score": 4,
+        "reason": "The model captures the casual and dismissive tone, but misses the nuanced expression of mixed feelings and social responsibility."
+    },
+    {
+        "sample_id": 6,
+        "score": 5,
+        "reason": "Model partially captures the intention by acknowledging the importance of working with people, but lacks the subtle humor and irony of the reference"
+    },
+    {
+        "sample_id": 7,
+        "score": 4,
+        "reason": "The model captures the speaker's preference for a friendly and relaxed atmosphere, but misses the nuance of subtle suggestion and mild humor in response_1, and misinterprets the intention of response_2 as a rejection."
+    },
+    {
+        "sample_id": 8,
+        "score": 8,
+        "reason": "The model's response captures the conditional and nuanced nature of response_1, but lacks the exact phrasing and context of the reference"
+    },
+    {
+        "sample_id": 9,
+        "score": 4,
+        "reason": "The model partially captures the intention, but lacks nuance and social responsibility in its explanation"
+    },
+    {
+        "sample_id": 10,
+        "score": 9,
+        "reason": "The model's response accurately captures the pragmatic intention and reasoning behind response_1, providing a balanced and helpful solution"
+    },
+    {
+        "sample_id": 11,
+        "score": 7,
+        "reason": "The model identifies deflection as the intention, but doesn't fully capture the self-protection aspect and Dan's motivation"
+    },
+    {
+        "sample_id": 12,
+        "score": 9,
+        "reason": "The model's response captures the intention of providing a positive and informative answer about the promotion, demonstrating a genuine interest in the community and its residents."
+    },
+    {
+        "sample_id": 13,
+        "score": 4,
+        "reason": "Model partially captures the intention, but lacks nuance and sarcasm recognition"
+    },
+    {
+        "sample_id": 14,
+        "score": 8,
+        "reason": "The model's response captures the intention of prioritizing punctuality over waiting, but could be more concise."
+    },
+    {
+        "sample_id": 15,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing continued interest and enthusiasm, but lacks a direct connection to the context 'X and Y'."
+    },
+    {
+        "sample_id": 16,
+        "score": 7,
+        "reason": "The model captures the intention of expressing dissatisfaction with the job's level of challenge, but lacks the diplomatic tone and subtlety of the reference"
+    },
+    {
+        "sample_id": 17,
+        "score": 8,
+        "reason": "Captures intention to express hesitation towards horror novels while appearing open-minded"
+    },
+    {
+        "sample_id": 18,
+        "score": 8,
+        "reason": "The model correctly identifies the deflection intention and compares it to response_2, but lacks nuance about the social responsibility aspect"
+    },
+    {
+        "sample_id": 19,
+        "score": 9,
+        "reason": "The model's response conveys enthusiasm and appreciation for African music, aligning with the reference intention."
+    },
+    {
+        "sample_id": 20,
+        "score": 9,
+        "reason": "The model's response captures the intention of providing a clear and straightforward answer about the woman's needs, similar to the reference."
+    },
+    {
+        "sample_id": 21,
+        "score": 8,
+        "reason": "The model captures the intention of response_1, explaining its humorous and indirect approach to convey the woman's unconventional request"
+    },
+    {
+        "sample_id": 22,
+        "score": 6,
+        "reason": "The model partially captures the intention, but lacks nuance and subtlety in conveying boredom and job dissatisfaction"
+    },
+    {
+        "sample_id": 23,
+        "score": 7,
+        "reason": "The model partially captures the intention by expressing enthusiasm and willingness to try something new, but lacks the playful tone and humor of the reference"
+    },
+    {
+        "sample_id": 24,
+        "score": 7,
+        "reason": "The model's response attempts to shift the conversation by asking for the laptop's availability, but lacks clarity on the speaker's intentions"
+    },
+    {
+        "sample_id": 25,
+        "score": 8,
+        "reason": "The model's response captures the intention to soften criticism and maintain a light-hearted tone, but lacks nuance and explicit connection to the reference."
+    },
+    {
+        "sample_id": 26,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention to deflect and maintain flexibility, while referencing relevant idioms."
+    },
+    {
+        "sample_id": 27,
+        "score": 6,
+        "reason": "The model's response captures the intention of humorously downplaying the speaker's need for a drink, but lacks nuance about the context of a lighthearted conversation."
+    },
+    {
+        "sample_id": 28,
+        "score": 6,
+        "reason": "The model's response captures the pragmatic intention behind'response_1', but lacks warmth and connection, missing the core idea of'response_1' described in the reference"
+    },
+    {
+        "sample_id": 29,
+        "score": 8,
+        "reason": "The model's response conveys enthusiasm and eagerness to try out the new shoes, matching the tone of the context"
+    },
+    {
+        "sample_id": 30,
+        "score": 6,
+        "reason": "The model's response provides some relevant information about the delivery delay, but lacks clarity and tact"
+    },
+    {
+        "sample_id": 31,
+        "score": 6,
+        "reason": "The model's response partially captures the intention, but lacks nuance and specific examples"
+    },
+    {
+        "sample_id": 32,
+        "score": 8,
+        "reason": "The model partially captures the intention, conveying reassurance and avoiding confrontation, but lacks nuance in the context of the concert scenario."
+    },
+    {
+        "sample_id": 33,
+        "score": 6,
+        "reason": "The model's response shows empathy and relates to X's sentiment, but lacks the sarcastic tone and humorous intention of response_1"
+    },
+    {
+        "sample_id": 34,
+        "score": 9,
+        "reason": "The model's response effectively conveys a personal and sentimental reason for choosing the mall, aligning with the reference intention"
+    },
+    {
+        "sample_id": 35,
+        "score": 7,
+        "reason": "The model's response captures the intention of providing a suitable emotional response to the situation, but lacks directness and enthusiasm"
+    },
+    {
+        "sample_id": 36,
+        "score": 8,
+        "reason": "Captures the intention of expressing a lukewarm appreciation for African music while maintaining ambiguity"
+    },
+    {
+        "sample_id": 37,
+        "score": 8,
+        "reason": "The model captures the intention of balancing desire for change with preference for stability, offering a nuanced perspective."
+    },
+    {
+        "sample_id": 38,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intention of being helpful and attempting to find information, but lacks the lighthearted tone of the reference."
+    },
+    {
+        "sample_id": 39,
+        "score": 8,
+        "reason": "The model's response captures the intention of justifying the noise and expressing willingness to change behavior, but lacks nuance and clarity"
+    },
+    {
+        "sample_id": 40,
+        "score": 9,
+        "reason": "The model's response captures the intention of providing a clear and direct prediction, highlighting the product's innovation and market need."
+    },
+    {
+        "sample_id": 41,
+        "score": 8,
+        "reason": "The model captures the intention of acknowledging the situation with humor and lighthearted tone, but lacks the specific reference to 'dealing-breaker' and 'positive atmosphere'"
+    },
+    {
+        "sample_id": 42,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of flouting the maxim of Relation and expressing disappointment with the invitation"
+    },
+    {
+        "sample_id": 43,
+        "score": 6,
+        "reason": "The model's response expresses uncertainty and openness, but doesn't fully capture the intention of a positive and enthusiastic attitude towards the walk invitation."
+    },
+    {
+        "sample_id": 44,
+        "score": 4,
+        "reason": "The model's response partially captures the intention, but with a misleading focus on complimenting the haircut instead of avoiding direct criticism."
+    },
+    {
+        "sample_id": 45,
+        "score": 6,
+        "reason": "The model expresses enthusiasm and confidence, but lacks the specific reason for holding the beer, missing the core intention"
+    },
+    {
+        "sample_id": 46,
+        "score": 10,
+        "reason": "Model's response accurately conveys the intention to explain the concept of a triangle in a clear and concise manner"
+    },
+    {
+        "sample_id": 47,
+        "score": 8,
+        "reason": "The model's response captures the intention of acknowledging the fan's enthusiasm and expressing anticipation for a new experience"
+    },
+    {
+        "sample_id": 48,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing dissatisfaction subtly, suitable for diplomatic situations, but lacks nuance on the speaker's relationship with the employer."
+    },
+    {
+        "sample_id": 49,
+        "score": 2,
+        "reason": "response_1 fails to capture the ironic intention behind'response_1' and instead expresses genuine concern and caution"
+    },
+    {
+        "sample_id": 50,
+        "score": 6,
+        "reason": "The model partially captures the intention by acknowledging variability in work hours, but lacks clarity and nuance"
+    },
+    {
+        "sample_id": 51,
+        "score": 7,
+        "reason": "Model's response captures uncertainty and openness, but lacks the touch of sarcasm and lighthearted tone of the reference"
+    },
+    {
+        "sample_id": 52,
+        "score": 6,
+        "reason": "The model's response partially captures the intention, but lacks nuance and context about the speaker's motivations"
+    },
+    {
+        "sample_id": 53,
+        "score": 8,
+        "reason": "Model's response captures the intention to deflect the request and provide a reason for the lawnmower's malfunction, but lacks the nuance of the reference"
+    },
+    {
+        "sample_id": 54,
+        "score": 6,
+        "reason": "The model's response partially captures the intention, but lacks nuance and social responsibility context"
+    },
+    {
+        "sample_id": 55,
+        "score": 8,
+        "reason": "Catches the intent of using humor to lighten the mood and address a potentially morbid topic, but lacks nuance"
+    },
+    {
+        "sample_id": 56,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of providing a neutral answer while keeping the conversation brief"
+    },
+    {
+        "sample_id": 57,
+        "score": 7,
+        "reason": "The model partially captures the intention of response_1, but lacks nuance and social responsibility explanation"
+    },
+    {
+        "sample_id": 58,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention of organizing books in neat rows and columns, aligning with the librarian's task"
+    },
+    {
+        "sample_id": 59,
+        "score": 9,
+        "reason": "The model's response accurately conveys a balanced perspective on music preference, matching the reference's intention"
+    },
+    {
+        "sample_id": 60,
+        "score": 8,
+        "reason": "The model's response captures the intention of diverting attention from the rule-breaking, offering a neutral and polite alternative."
+    },
+    {
+        "sample_id": 61,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention to compliment and support, avoiding criticism or negativity."
+    },
+    {
+        "sample_id": 62,
+        "score": 8,
+        "reason": "The model's response captures the playful intention of response_1, but lacks nuance about social responsibility and relationship dynamics."
+    },
+    {
+        "sample_id": 63,
+        "score": 2,
+        "reason": "The model's response is somewhat relevant but lacks the conversational tone and acknowledges the customer's issue, missing the intention of assisting with the order"
+    },
+    {
+        "sample_id": 64,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of acknowledging New York's unique charm while reassuring the user."
+    },
+    {
+        "sample_id": 65,
+        "score": 9,
+        "reason": "The model's response captures the intention of affirming music's relaxing effect and building rapport, but misses the enthusiastic tone"
+    },
+    {
+        "sample_id": 66,
+        "score": 5,
+        "reason": "Response captures speaker's certainty and enthusiasm but lacks nuance and balance in weighing challenges and excitement"
+    },
+    {
+        "sample_id": 67,
+        "score": 10,
+        "reason": "The model's response accurately captures the intention of expressing clear and enthusiastic enjoyment, similar to the reference golden intention."
+    },
+    {
+        "sample_id": 68,
+        "score": 8,
+        "reason": "The model captures the intention of expressing a preference for lesser-known books in a subtle way, aligning with the reference"
+    },
+    {
+        "sample_id": 69,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention described in the reference, providing a clear reason for the speaker's preference."
+    },
+    {
+        "sample_id": 70,
+        "score": 9,
+        "reason": "The model's response captures the intention of subtlety and nuance, but uses different language than the reference"
+    },
+    {
+        "sample_id": 71,
+        "score": 8,
+        "reason": "The model's response captures the intention of downplaying boredom and emphasizing a desire for a new challenge, but lacks nuance and clarity."
+    },
+    {
+        "sample_id": 72,
+        "score": 9,
+        "reason": "The model's response captures the intention of expressing disinterest in reality TV while being honest and socially responsible"
+    },
+    {
+        "sample_id": 73,
+        "score": 2,
+        "reason": "response_1 attempts to convey curiosity, but doesn't capture the humor and lighthearted tone of the reference"
+    },
+    {
+        "sample_id": 74,
+        "score": 6,
+        "reason": "The model provides some relevant information but lacks clarity and coherence in expressing enthusiasm and eagerness to go out"
+    },
+    {
+        "sample_id": 75,
+        "score": 6,
+        "reason": "Model's response conveys confidence and resilience, but lacks playful irony and humor, missing core intention of response_1"
+    },
+    {
+        "sample_id": 76,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of expressing uncertainty and flexibility regarding wait time and food quality"
+    },
+    {
+        "sample_id": 77,
+        "score": 10,
+        "reason": "The model's response directly communicates the chef's positive experience with the recipe's sauce, aligning with the golden intention of expressing satisfaction."
+    },
+    {
+        "sample_id": 78,
+        "score": 9,
+        "reason": "The model's response captures the intention of expressing gratitude and maintaining positivity, aligning with the reference"
+    },
+    {
+        "sample_id": 79,
+        "score": 8,
+        "reason": "Model captures pragmatic intention, but lacks nuance in explaining why'response_2' is preferred for improving the situation"
+    },
+    {
+        "sample_id": 80,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing uncertainty and caution, while maintaining a professional tone and relevance to the context."
+    },
+    {
+        "sample_id": 81,
+        "score": 7,
+        "reason": "The model's response captures the intention, but lacks nuance and some details from the reference"
+    },
+    {
+        "sample_id": 82,
+        "score": 9,
+        "reason": "The model's response captures the intention of empathy, acknowledgment, and responsibility, aligning with the reference's core idea"
+    },
+    {
+        "sample_id": 83,
+        "score": 8,
+        "reason": "Model captures the intention of providing a balanced optimistic view of the financial implications of purchasing a flat in New York"
+    },
+    {
+        "sample_id": 84,
+        "score": 8,
+        "reason": "The model captures the pragmatic intention behind response_1, but could provide more nuanced reasons for preferring it."
+    },
+    {
+        "sample_id": 85,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of acknowledging the situation and providing a neutral explanation, avoiding blame or criticism."
+    },
+    {
+        "sample_id": 86,
+        "score": 2,
+        "reason": "The model's response focuses on the book's author and cover, missing the intention to explore the mysterious origin of the book."
+    },
+    {
+        "sample_id": 87,
+        "score": 9,
+        "reason": "The model's response captures the intention of conveying a preference for classic music while acknowledging some merit in new music"
+    },
+    {
+        "sample_id": 88,
+        "score": 4,
+        "reason": "The model's response partially captures the intention of expressing freedom and relaxation, but lacks the playful tone and humor of response_1"
+    },
+    {
+        "sample_id": 89,
+        "score": 1,
+        "reason": "response_1 focuses on the inconvenience of distance, using humor to soften the negative aspect, unlike the reference intention"
+    },
+    {
+        "sample_id": 90,
+        "score": 10,
+        "reason": "The model's response accurately captures the intention to acknowledge the inconvenience and offer to resolve the issue"
+    },
+    {
+        "sample_id": 91,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of expressing a strong positive preference for Mexican cuisine and providing specific examples."
+    },
+    {
+        "sample_id": 92,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention of expressing frustration and uncertainty about the property purchase."
+    },
+    {
+        "sample_id": 93,
+        "score": 8,
+        "reason": "The model's response captures the intention behind'response_1', providing reassurance and comfort, but could be more concise."
+    },
+    {
+        "sample_id": 94,
+        "score": 8,
+        "reason": "The model's response captures the intention of describing a helpful and polite customer service representative, but lacks specific details"
+    },
+    {
+        "sample_id": 95,
+        "score": 2,
+        "reason": "The model's response partially captures the intention, but lacks specificity and nuance about the speaker's emotional tone and goals."
+    },
+    {
+        "sample_id": 96,
+        "score": 9,
+        "reason": "The model's response captures the intention of expressing pleasure and eagerness to reconnect, highlighting the shared history."
+    },
+    {
+        "sample_id": 97,
+        "score": 10,
+        "reason": "Model's response accurately captures the intention of expressing interest in sightseeing with a humorous caveat"
+    },
+    {
+        "sample_id": 98,
+        "score": 8,
+        "reason": "The model's response acknowledges potential rain, providing a nuanced answer, inviting further discussion about the weather."
+    },
+    {
+        "sample_id": 99,
+        "score": 8,
+        "reason": "The model's response captures the intention of providing specific help, but lacks nuance and detail about the student's struggle"
+    },
+    {
+        "sample_id": 100,
+        "score": 9,
+        "reason": "The model's response accurately conveys a balanced, pragmatic intention, capturing the essence of the reference."
+    },
+    {
+        "sample_id": 101,
+        "score": 9,
+        "reason": "The model's response accurately conveys the intention to convey stress without directly answering, aligning with the reference's maxim of Quantity."
+    },
+    {
+        "sample_id": 102,
+        "score": 7,
+        "reason": "The model's response partially captures the intention, but lacks nuance and clarity regarding the context and motivations behind the response."
+    },
+    {
+        "sample_id": 103,
+        "score": 7,
+        "reason": "The model captures the intention of extroversion and confidence, but lacks nuance and humor"
+    },
+    {
+        "sample_id": 104,
+        "score": 9,
+        "reason": "The model's response conveys a neutral, informative tone, but lacks empathetic support, missing the positive framing of the reference"
+    },
+    {
+        "sample_id": 105,
+        "score": 9,
+        "reason": "Model's response accurately captures the intention of providing factual information about recycling's benefits"
+    },
+    {
+        "sample_id": 106,
+        "score": 8,
+        "reason": "The model's response captures the intention of using humor and playfulness to lighten the tone and clarify the speaker's profession"
+    },
+    {
+        "sample_id": 107,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intention of providing a balanced view while acknowledging the new manager's lack of experience."
+    },
+    {
+        "sample_id": 108,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing dissatisfaction with a base model's output, but lacks nuance and specificity about the context of the car."
+    },
+    {
+        "sample_id": 109,
+        "score": 9,
+        "reason": "The model's response captures the intention of sharing personal research and maintaining a friendly tone, inviting further conversation."
+    },
+    {
+        "sample_id": 110,
+        "score": 7,
+        "reason": "The model expresses uncertainty and hints at a preference for a shorter commute, but lacks nuanced social responsibility"
+    },
+    {
+        "sample_id": 111,
+        "score": 7,
+        "reason": "The model partially captures the intention, conveying a serious tone and hinting at comprehensive benefits, but lacks the playfulness and nuance of the reference"
+    },
+    {
+        "sample_id": 112,
+        "score": 6,
+        "reason": "The model partially captures the intention, but lacks nuance and contextual understanding of the speaker's preferences."
+    },
+    {
+        "sample_id": 113,
+        "score": 5,
+        "reason": "The model acknowledges the building's structural integrity but lacks the lighthearted tone of the reference"
+    },
+    {
+        "sample_id": 114,
+        "score": 7,
+        "reason": "The model's response partially captures the intention of responding with a laid-back attitude and avoiding commitment"
+    },
+    {
+        "sample_id": 115,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing active search for a parking spot, but lacks nuance and social implications"
+    },
+    {
+        "sample_id": 116,
+        "score": 9,
+        "reason": "The model's response effectively captures the intention of providing a balanced and honest answer about job stress while maintaining a positive tone"
+    },
+    {
+        "sample_id": 117,
+        "score": 7,
+        "reason": "The model captures the intention to express uncertainty about the picnic location, but lacks nuance in its explanation"
+    },
+    {
+        "sample_id": 118,
+        "score": 9,
+        "reason": "The model captures the pragmatic intention behind response_1, including concern about noise levels and tactfulness."
+    },
+    {
+        "sample_id": 119,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of flouting the maxim of Relation and expressing preference for local diner"
+    },
+    {
+        "sample_id": 120,
+        "score": 8,
+        "reason": "The model's response captures the intention of a balanced approach to weekend activities, but lacks specific details and examples"
+    },
+    {
+        "sample_id": 121,
+        "score": 9,
+        "reason": "The model's response captures the intention of conveying deep engagement in reading, emphasizing the immersive quality of a good book."
+    },
+    {
+        "sample_id": 122,
+        "score": 8,
+        "reason": "The model captures the intention behind response_1 as playful teasing, but could clarify its relation to mood diffusion"
+    },
+    {
+        "sample_id": 123,
+        "score": 8,
+        "reason": "The model acknowledges the presence of people and emphasizes processes, capturing the intention of flouting the maxim of relation indirectly."
+    },
+    {
+        "sample_id": 124,
+        "score": 9,
+        "reason": "Model conveys dissatisfaction and resignation with the job, aligning with the context and intention of response_1"
+    },
+    {
+        "sample_id": 125,
+        "score": 8,
+        "reason": "The model's response acknowledges the concern and offers a solution, indicating a nuanced understanding of the context"
+    },
+    {
+        "sample_id": 126,
+        "score": 6,
+        "reason": "The model's response partially captures the intention, but lacks nuance and subtlety of the reference response"
+    },
+    {
+        "sample_id": 127,
+        "score": 4,
+        "reason": "The model's response partially captures the intention by recognizing a playful tone, but lacks specific context and nuance."
+    },
+    {
+        "sample_id": 128,
+        "score": 1,
+        "reason": "Model's response fails to capture the intention of conveying enthusiasm and humor, instead expressing a neutral or pessimistic tone"
+    },
+    {
+        "sample_id": 129,
+        "score": 9,
+        "reason": "The model's response captures the intention of expressing interest in movies while avoiding a direct statement, with a nuanced approach to conversation."
+    },
+    {
+        "sample_id": 130,
+        "score": 6,
+        "reason": "The model partially captures the intention behind response_1, but lacks nuance and social responsibility tone"
+    },
+    {
+        "sample_id": 131,
+        "score": 8,
+        "reason": "Captures the intention of acknowledging potential negative impact and realistic perspective on the situation"
+    },
+    {
+        "sample_id": 132,
+        "score": 8,
+        "reason": "The model correctly identifies the intention behind'response_1' and explains its pragmatic advantages"
+    },
+    {
+        "sample_id": 133,
+        "score": 6,
+        "reason": "The model's response partially captures the intention, but lacks nuance and specific examples"
+    },
+    {
+        "sample_id": 134,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing a preference for older music and a lack of exploration of newer songs"
+    },
+    {
+        "sample_id": 135,
+        "score": 8,
+        "reason": "The model captures the intention of deflecting the salmon question and steering towards book preferences, but lacks nuance and clarity"
+    },
+    {
+        "sample_id": 136,
+        "score": 8,
+        "reason": "The model captures the speaker's cautious willingness to try new foods, but could be more nuanced in its explanation."
+    },
+    {
+        "sample_id": 137,
+        "score": 4,
+        "reason": "Model's response partially captures the intention, but lacks nuance and clarity in comparing response_1 and response_2"
+    },
+    {
+        "sample_id": 138,
+        "score": 9,
+        "reason": "The model's response captures the intention of downplaying seniority and emphasizing a change in environment, with minor phrasing differences"
+    },
+    {
+        "sample_id": 139,
+        "score": 9,
+        "reason": "The model's response captures the intention of shifting focus away from the topic and exploring Cindy's feelings, with some minor deviations in wording."
+    },
+    {
+        "sample_id": 140,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intentions of both responses and explains their suitability in different contexts"
+    },
+    {
+        "sample_id": 141,
+        "score": 7,
+        "reason": "The model acknowledges Cindy's potential discomfort and apologizes, showing consideration for her feelings, but doesn't fully capture the'Relation' maxim"
+    },
+    {
+        "sample_id": 142,
+        "score": 8,
+        "reason": "Model's response captures the intention of highlighting analytical skills and context well, but slightly deviates from the reference's wording"
+    },
+    {
+        "sample_id": 143,
+        "score": 1,
+        "reason": "The model's response fails to capture the intention of seeking clarification, instead focusing on an unrelated sentiment"
+    },
+    {
+        "sample_id": 144,
+        "score": 8,
+        "reason": "The model's response captures the intention of diplomatically avoiding direct expression of preference, maintaining a neutral stance and being tactful."
+    },
+    {
+        "sample_id": 145,
+        "score": 8,
+        "reason": "The model's response captures the intention of acknowledging the role's focus on processes and systems while downplaying interpersonal involvement."
+    },
+    {
+        "sample_id": 146,
+        "score": 8,
+        "reason": "Model captures the intention of acknowledging Kristine's statement while shifting the conversation to a constructive tone, but could be more specific about the context"
+    },
+    {
+        "sample_id": 147,
+        "score": 9,
+        "reason": "Captures the intention of expressing flexibility and adaptability in food preferences, with a nuanced and varied tone"
+    },
+    {
+        "sample_id": 148,
+        "score": 1,
+        "reason": "Model's response focuses on the physical action of eating a healthy meal, not the speaker's intention or emotional state."
+    },
+    {
+        "sample_id": 149,
+        "score": 8,
+        "reason": "The model's response captures the intention of balance and consideration, but could be more concise and direct"
+    },
+    {
+        "sample_id": 150,
+        "score": 4,
+        "reason": "The model's response attempts to address the strength of the coffee, but lacks the humorous twist and contextual understanding of the reference"
+    },
+    {
+        "sample_id": 151,
+        "score": 7,
+        "reason": "The model's response conveys the intention of providing a neutral and honest account of attending a live concert, but lacks specific details and clarity"
+    },
+    {
+        "sample_id": 152,
+        "score": 9,
+        "reason": "Response captures intention to inform about product availability and address customer's question, but lacks nuance"
+    },
+    {
+        "sample_id": 153,
+        "score": 4,
+        "reason": "The model's response acknowledges the question but doesn't fully express enjoyment or openness about electronic music"
+    },
+    {
+        "sample_id": 154,
+        "score": 8,
+        "reason": "Captures the intention of expressing spontaneity and flexibility in travel habits, but lacks the playful tone"
+    },
+    {
+        "sample_id": 155,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention of providing a genuine and modest account of Y's musical background and skill level."
+    },
+    {
+        "sample_id": 156,
+        "score": 4,
+        "reason": "Model's response partially captures the intention, but lacks tact and social responsibility in its tone."
+    },
+    {
+        "sample_id": 157,
+        "score": 10,
+        "reason": "The model's response directly confirms having read the Harry Potter series and expresses enthusiasm, inviting further conversation about shared interests."
+    },
+    {
+        "sample_id": 158,
+        "score": 8,
+        "reason": "Captures the intention of providing pros of taking a gap year, but lacks specific detail and nuance"
+    },
+    {
+        "sample_id": 159,
+        "score": 6,
+        "reason": "The model's response partially captures the intention of expressing a willingness to give a lift while highlighting the subway's inconvenience, but lacks nuance and humor."
+    },
+    {
+        "sample_id": 160,
+        "score": 8,
+        "reason": "The model correctly identifies the empathetic and supportive tone of response_1, but misses the humorous intention and the comparison to response_2."
+    },
+    {
+        "sample_id": 161,
+        "score": 10,
+        "reason": "The model's response perfectly captures the intention of downplaying the teacher's concern and expressing preference for a heavy workload"
+    },
+    {
+        "sample_id": 162,
+        "score": 9,
+        "reason": "The model's response captures the intention of avoiding direct preference while leaving room for participation"
+    },
+    {
+        "sample_id": 163,
+        "score": 8,
+        "reason": "The model expresses interest in short stories while emphasizing preference for novels, providing nuanced information about reading tastes"
+    },
+    {
+        "sample_id": 164,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing a nuanced and flexible stance on music preferences, but lacks the nuance of the reference"
+    },
+    {
+        "sample_id": 165,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing a preference for American cuisine, but lacks nuance and context details."
+    },
+    {
+        "sample_id": 166,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing genuine remorse and offering a solution, but could be more concise."
+    },
+    {
+        "sample_id": 167,
+        "score": 9,
+        "reason": "The model's response effectively conveys a nuanced and cautious preference for pie, matching the reference's intention"
+    },
+    {
+        "sample_id": 168,
+        "score": 8,
+        "reason": "The model captures the intention behind response_1, but with some minor deviations in explanation."
+    },
+    {
+        "sample_id": 169,
+        "score": 6,
+        "reason": "The model's response acknowledges the woman's anxiety and offers a general relaxation tip, but lacks the empathetic tone and subtle hint of a preferred approach"
+    },
+    {
+        "sample_id": 170,
+        "score": 9,
+        "reason": "The model's response captures the intention of providing a neutral and diplomatic answer about the book's availability."
+    },
+    {
+        "sample_id": 171,
+        "score": 9,
+        "reason": "Model's response accurately conveys enthusiasm and eagerness to try new foods, matching the reference intention"
+    },
+    {
+        "sample_id": 172,
+        "score": 9,
+        "reason": "The model provides a balanced and nuanced assessment, acknowledging both positive and areas for improvement, with a socially responsible tone."
+    },
+    {
+        "sample_id": 173,
+        "score": 1,
+        "reason": "response_1 fails to express the intention of directly and enthusiastically stating Y's son enjoys high school"
+    },
+    {
+        "sample_id": 174,
+        "score": 8,
+        "reason": "The model's response captures the intention of camaraderie and shared experience, but lacks nuance and humor"
+    },
+    {
+        "sample_id": 175,
+        "score": 7,
+        "reason": "The model's response captures the playful intention but misinterprets the tone as testing Brad's skills rather than teasing him sarcastically."
+    },
+    {
+        "sample_id": 176,
+        "score": 8,
+        "reason": "The model's response captures the intention of politely declining and offering an alternative, but lacks the nuance of maintaining politeness and relationship"
+    },
+    {
+        "sample_id": 177,
+        "score": 8,
+        "reason": "Response captures the intention behind'response_1', highlighting the presence of new challenges and growth, but lacks specificity"
+    },
+    {
+        "sample_id": 178,
+        "score": 9,
+        "reason": "The model's response accurately conveys a positive and upbeat tone, capturing the intention of a straightforward and enthusiastic reply."
+    },
+    {
+        "sample_id": 179,
+        "score": 8,
+        "reason": "The model's response captures the intention of expressing enthusiasm for travel and establishing a connection, but lacks nuance and specificity"
+    },
+    {
+        "sample_id": 180,
+        "score": 8,
+        "reason": "Model captures intention of avoiding country music discussion, but lacks nuance and clarity"
+    },
+    {
+        "sample_id": 181,
+        "score": 6,
+        "reason": "The model's response captures the intention of providing more information than necessary, but lacks specificity and nuance in its explanation."
+    },
+    {
+        "sample_id": 182,
+        "score": 7,
+        "reason": "The model partially captures the intention, but lacks nuance and specificity in explaining the speaker's motivations."
+    },
+    {
+        "sample_id": 183,
+        "score": 9,
+        "reason": "The model's response accurately captures the intention to provide a general setup guide for a VPN, but lacks specific details"
+    },
+    {
+        "sample_id": 184,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intention of'response_1', but lacks nuance on its diplomatic and humorous tone."
+    },
+    {
+        "sample_id": 185,
+        "score": 8,
+        "reason": "Captures the intention of expressing a neutral stance towards biryani, but lacks nuance and social responsibility details"
+    },
+    {
+        "sample_id": 186,
+        "score": 8,
+        "reason": "The model captures the intention of providing a nuanced answer highlighting transferable skills, but could be more concise."
+    },
+    {
+        "sample_id": 187,
+        "score": 9,
+        "reason": "Model's response accurately captures the intention of providing a balanced and nuanced answer about job satisfaction"
+    },
+    {
+        "sample_id": 188,
+        "score": 6,
+        "reason": "The model's response hints at the next event, but lacks the nuance of avoiding direct commitment or snubbing the colleague, missing the core intention"
+    },
+    {
+        "sample_id": 189,
+        "score": 9,
+        "reason": "The model's response captures the intention of redirecting the conversation to highlight adaptability and flexibility, but could be more nuanced"
+    },
+    {
+        "sample_id": 190,
+        "score": 9,
+        "reason": "The model's response captures skepticism and critical perspective, conveying the speaker's doubts lightheartedly"
+    },
+    {
+        "sample_id": 191,
+        "score": 9,
+        "reason": "The model's response clearly conveys the speaker's exhaustion and inability to continue, matching the reference's intention"
+    },
+    {
+        "sample_id": 192,
+        "score": 2,
+        "reason": "The model's response captures the pragmatic intention, but not the ironic humor and tone of response_1"
+    },
+    {
+        "sample_id": 193,
+        "score": 9,
+        "reason": "The model's response accurately conveys the speaker's dissatisfaction with their job's level of challenge"
+    },
+    {
+        "sample_id": 194,
+        "score": 4,
+        "reason": "Captures some aspects of intention, but lacks nuance and doesn't fully convey the humor and personality behind response_1"
+    },
+    {
+        "sample_id": 195,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intention of suggesting an alternative option, but lacks nuance and clarity"
+    },
+    {
+        "sample_id": 196,
+        "score": 9,
+        "reason": "The model's response captures the intention of offering praise and admiration, with a focus on the kitchen's uniqueness, similar to response_1."
+    },
+    {
+        "sample_id": 197,
+        "score": 6,
+        "reason": "The model's response captures the idea of a lukewarm preference, but lacks nuance and context, missing the subtlety of the reference"
+    },
+    {
+        "sample_id": 198,
+        "score": 1,
+        "reason": "The model's response only provides factual information without conveying the intention of avoiding a firm commitment or keeping options open."
+    },
+    {
+        "sample_id": 199,
+        "score": 8,
+        "reason": "The model's response captures the pragmatic intention of downplaying the severity of the situation with a lighthearted tone"
+    },
+    {
+        "sample_id": 200,
+        "score": 9,
+        "reason": "Model captures the intention of conveying satisfaction and positivity, but lacks specific details about the day's activities"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "sample_id": 1,
+        "score": 8,
+        "reason": "Response captures the humorous and conditional nature but lacks specific mention of quality and exaggeration."
+    },
+    {
+        "sample_id": 2,
+        "score": 8,
+        "reason": "Response accurately captures the intention and reasons for preferring 'Not really, it is revolting' over 'Well, I think it just needs a bit more sugar'."
+    },
+    {
+        "sample_id": 3,
+        "score": 8,
+        "reason": "Response accurately captures the intention of providing clear, actionable feedback."
+    },
+    {
+        "sample_id": 4,
+        "score": 8,
+        "reason": "Captures key points but misses nuances about avoiding blame and promoting cooperation"
+    },
+    {
+        "sample_id": 5,
+        "score": 8,
+        "reason": "Response accurately captures the nuanced opinion and avoidance of direct rejection, though lacks specific mention of irony and mixed feelings."
+    },
+    {
+        "sample_id": 6,
+        "score": 4,
+        "reason": "Response captures indirectness but misses subtlety and humor"
+    },
+    {
+        "sample_id": 7,
+        "score": 1,
+        "reason": "Response focuses on pragmatism rather than relation maxim flaw."
+    },
+    {
+        "sample_id": 8,
+        "score": 8,
+        "reason": "Response accurately captures the intention of expressing a conditional preference and highlighting its pragmatic benefits."
+    },
+    {
+        "sample_id": 9,
+        "score": 7,
+        "reason": "Response accurately describes pragmatic intention but misses nuances of maintaining context and engagement."
+    },
+    {
+        "sample_id": 10,
+        "score": 8,
+        "reason": "Response accurately captures the intention of response_1 but misinterprets response_2."
+    },
+    {
+        "sample_id": 11,
+        "score": 7,
+        "reason": "Response accurately describes pragmatic intention but lacks specific comparison with 'response_2'"
+    },
+    {
+        "sample_id": 12,
+        "score": 8,
+        "reason": "Captures the core intention and preferences accurately"
+    },
+    {
+        "sample_id": 13,
+        "score": 10,
+        "reason": "Response accurately captures the sarcastic intent and context"
+    },
+    {
+        "sample_id": 14,
+        "score": 8,
+        "reason": "Response accurately captures the humorous and pragmatic nature of the original response"
+    },
+    {
+        "sample_id": 15,
+        "score": 8,
+        "reason": "Response captures key points but lacks nuances present in reference"
+    },
+    {
+        "sample_id": 16,
+        "score": 3,
+        "reason": "Misinterprets the core intention as indirectness, focusing on directness instead"
+    },
+    {
+        "sample_id": 17,
+        "score": 7,
+        "reason": "Response captures hesitation and nuance but lacks personal context and cautious stance"
+    },
+    {
+        "sample_id": 18,
+        "score": 8,
+        "reason": "Response captures key aspects of the sarcastic humor and conversational intent"
+    },
+    {
+        "sample_id": 19,
+        "score": 8,
+        "reason": "Response accurately captures the core intention and reasons for preferring 'response_1'."
+    },
+    {
+        "sample_id": 20,
+        "score": 8,
+        "reason": "Response accurately captures the intention and reasons for preferring 'response_1' over 'response_2'."
+    },
+    {
+        "sample_id": 21,
+        "score": 6,
+        "reason": "Response captures humor but misses core intention about deflection and levity"
+    },
+    {
+        "sample_id": 22,
+        "score": 8,
+        "reason": "Response accurately describes vagueness and implied boredom, but misses subtle nuances of avoiding direct criticism"
+    },
+    {
+        "sample_id": 23,
+        "score": 8,
+        "reason": "Response captures key aspects of playful exaggeration and engagement, but lacks specific mention of humor and quality."
+    },
+    {
+        "sample_id": 24,
+        "score": 7,
+        "reason": "Response captures the core intention but lacks specific details about probing Cindy's feelings"
+    },
+    {
+        "sample_id": 25,
+        "score": 7,
+        "reason": "Response captures relation flouting but misses indirectness and solution orientation"
+    },
+    {
+        "sample_id": 26,
+        "score": 8,
+        "reason": "Response accurately captures the intention of flouting the maxim of Relation and preferring vagueness."
+    },
+    {
+        "sample_id": 27,
+        "score": 7,
+        "reason": "Response captures key elements but misses core humor and self-deprecation"
+    },
+    {
+        "sample_id": 28,
+        "score": 8,
+        "reason": "Response accurately captures self-deprecating humor and managing expectations, but misses nuances of quality."
+    },
+    {
+        "sample_id": 29,
+        "score": 8,
+        "reason": "Response accurately captures the intended humor and shared sentiment, but misses nuances about validation and camaraderie."
+    },
+    {
+        "sample_id": 30,
+        "score": 8,
+        "reason": "Response accurately captures the intention and provides a clear comparison to 'response_2'."
+    },
+    {
+        "sample_id": 31,
+        "score": 8,
+        "reason": "Response accurately captures the ironic intent and preference for simplicity over negotiation."
+    },
+    {
+        "sample_id": 32,
+        "score": 10,
+        "reason": "Response accurately captures the intention and rationale of 'response_1'"
+    },
+    {
+        "sample_id": 33,
+        "score": 8,
+        "reason": "Response accurately captures the intention of sarcasm and shared workplace frustration, but lacks specific mention of the pragmatic benefits."
+    },
+    {
+        "sample_id": 34,
+        "score": 7,
+        "reason": "Response captures core idea but misses specific mention of metaphor and emotional depth"
+    },
+    {
+        "sample_id": 35,
+        "score": 8,
+        "reason": "Response captures key points about immediacy and supportiveness"
+    },
+    {
+        "sample_id": 36,
+        "score": 7,
+        "reason": "Response captures the intended vagueness and caution but lacks specific details about the comparison to 'response_2'."
+    },
+    {
+        "sample_id": 37,
+        "score": 8,
+        "reason": "Response accurately captures the cautious and exploratory nature of 'response_1'"
+    },
+    {
+        "sample_id": 38,
+        "score": 7,
+        "reason": "Response captures quality but misses specific ironic/humor elements"
+    },
+    {
+        "sample_id": 39,
+        "score": 1,
+        "reason": "Misinterprets defense as asserting perspective, lacks clarity on defending behavior"
+    },
+    {
+        "sample_id": 40,
+        "score": 6,
+        "reason": "Response captures core intention but lacks specific comparison with 'response_2'"
+    },
+    {
+        "sample_id": 41,
+        "score": 9,
+        "reason": "Response accurately captures quality of humor and acknowledgment, matching reference closely."
+    },
+    {
+        "sample_id": 42,
+        "score": 7,
+        "reason": "Response captures the dissatisfaction aspect but misses the personal touch and redirection emphasis"
+    },
+    {
+        "sample_id": 43,
+        "score": 10,
+        "reason": "Response accurately captures enthusiasm and openness as per reference"
+    },
+    {
+        "sample_id": 44,
+        "score": 6,
+        "reason": "Response captures quality but lacks specifics on avoiding criticism and indirectness"
+    },
+    {
+        "sample_id": 45,
+        "score": 8,
+        "reason": "Response accurately captures the intention of expressing enthusiasm and openness, and explains why 'response_1' might be preferred pragmatically."
+    },
+    {
+        "sample_id": 46,
+        "score": 8,
+        "reason": "Response accurately captures the intention of evasiveness and casualness, and contrasts with response 2 effectively."
+    },
+    {
+        "sample_id": 47,
+        "score": 8,
+        "reason": "Response accurately describes the pragmatic intention and context of 'response_1', but misses nuances about preference."
+    },
+    {
+        "sample_id": 48,
+        "score": 7,
+        "reason": "Response captures the core intention but lacks specific details about politeness and indirectness."
+    },
+    {
+        "sample_id": 49,
+        "score": 1,
+        "reason": "Response focuses on engagement rather than irony and lacks mention of quality flouting"
+    },
+    {
+        "sample_id": 50,
+        "score": 8,
+        "reason": "Response accurately captures the intention to provide a nuanced and honest assessment of workload variability."
+    },
+    {
+        "sample_id": 51,
+        "score": 8,
+        "reason": "Response accurately captures the intended playfulness and honesty, but misses the specific mention of sarcasm and quality."
+    },
+    {
+        "sample_id": 52,
+        "score": 10,
+        "reason": "Response accurately captures deflection, pragmatism, and avoidance of direct truth-telling."
+    },
+    {
+        "sample_id": 53,
+        "score": 7,
+        "reason": "Response captures key elements but misses specific emphasis on quality flouting"
+    },
+    {
+        "sample_id": 54,
+        "score": 7,
+        "reason": "Response captures the core intention but misses nuances regarding politeness and brevity"
+    },
+    {
+        "sample_id": 55,
+        "score": 8,
+        "reason": "Response accurately captures humor and engagement, but misses sentimentality aspect."
+    },
+    {
+        "sample_id": 56,
+        "score": 8,
+        "reason": "Response accurately captures the intended neutrality and optimism of 'response_1'"
+    },
+    {
+        "sample_id": 57,
+        "score": 5,
+        "reason": "Response captures quality but lacks specific mention of sarcasm and humor"
+    },
+    {
+        "sample_id": 58,
+        "score": 8,
+        "reason": "Response accurately captures the intention and provides a valid comparison to response_2."
+    },
+    {
+        "sample_id": 59,
+        "score": 8,
+        "reason": "Response captures the core intention of showing a balanced view of musical preferences"
+    },
+    {
+        "sample_id": 60,
+        "score": 8,
+        "reason": "Response captures the core idea of indirect criticism and preference for politeness over directness."
+    },
+    {
+        "sample_id": 61,
+        "score": 8,
+        "reason": "Captures main points but lacks specific details about avoiding confrontation"
+    },
+    {
+        "sample_id": 62,
+        "score": 3,
+        "reason": "Response lacks details about the use of playful irony and fails to explain the preference over 'response_2'."
+    },
+    {
+        "sample_id": 63,
+        "score": 7,
+        "reason": "Response captures key aspects but misses specific nuances of irony and humor"
+    },
+    {
+        "sample_id": 64,
+        "score": 3,
+        "reason": "Response deviates from core intention focusing on deflection rather than providing context and appeal."
+    },
+    {
+        "sample_id": 65,
+        "score": 8,
+        "reason": "Response accurately captures the intention of expressing agreement and offering a positive affirmation"
+    },
+    {
+        "sample_id": 66,
+        "score": 8,
+        "reason": "Response captures key points but lacks specific alignment with the reference"
+    },
+    {
+        "sample_id": 67,
+        "score": 8,
+        "reason": "Response accurately captures enthusiasm and engagement but lacks specific mention of core reference's core idea."
+    },
+    {
+        "sample_id": 68,
+        "score": 8,
+        "reason": "Response accurately captures the intention of subtly steering the conversation and maintaining a conversational tone."
+    },
+    {
+        "sample_id": 69,
+        "score": 3,
+        "reason": "Response misses key points about flouting relation maxim and honesty."
+    },
+    {
+        "sample_id": 70,
+        "score": 8,
+        "reason": "Response accurately captures the intention of subtly expressing dissatisfaction without directly stating unhappiness."
+    },
+    {
+        "sample_id": 71,
+        "score": 8,
+        "reason": "Response accurately captures the positive and aspirational tone of the intended message."
+    },
+    {
+        "sample_id": 72,
+        "score": 3,
+        "reason": "Response captures general idea but lacks specific details about quantity maxim and practical benefits"
+    },
+    {
+        "sample_id": 73,
+        "score": 1,
+        "reason": "Misinterprets the intention as eliciting information, lacks focus on humor and engagement"
+    },
+    {
+        "sample_id": 74,
+        "score": 8,
+        "reason": "Response accurately captures enthusiasm but misses specific nuances of the reference"
+    },
+    {
+        "sample_id": 75,
+        "score": 8,
+        "reason": "Response accurately captures the intention and reasons for preferring response 1 over 2."
+    },
+    {
+        "sample_id": 76,
+        "score": 8,
+        "reason": "Response accurately captures flouting Quantity maxim and emphasizes flexibility, though phrasing could be clearer."
+    },
+    {
+        "sample_id": 77,
+        "score": 8,
+        "reason": "Response accurately describes pragmatic intention but lacks direct comparison to 'response_2'."
+    },
+    {
+        "sample_id": 78,
+        "score": 8,
+        "reason": "Response captures main intentions but lacks specific details about the context"
+    },
+    {
+        "sample_id": 79,
+        "score": 7,
+        "reason": "Response captures key aspects but lacks specific detail about humor and defusion strategy."
+    },
+    {
+        "sample_id": 80,
+        "score": 8,
+        "reason": "Response accurately captures the intention of expressing uncertainty and preference, and discusses its advantages over Response 2."
+    },
+    {
+        "sample_id": 81,
+        "score": 7,
+        "reason": "Response captures main points but lacks specific details about sincerity and enthusiasm"
+    },
+    {
+        "sample_id": 82,
+        "score": 8,
+        "reason": "Response accurately captures the intention, but lacks specific examples."
+    },
+    {
+        "sample_id": 83,
+        "score": 7,
+        "reason": "Response captures key points but misses specific details about quantity maxim"
+    },
+    {
+        "sample_id": 84,
+        "score": 3,
+        "reason": "Response focuses on pragmatism but misses the indirectness and relation flouting aspect."
+    },
+    {
+        "sample_id": 85,
+        "score": 8,
+        "reason": "Response accurately captures the intention of acknowledging unpredictability without blaming, using empathy and politeness."
+    },
+    {
+        "sample_id": 86,
+        "score": 1,
+        "reason": "Response focuses on practicality rather than humor, misses key quality aspect"
+    },
+    {
+        "sample_id": 87,
+        "score": 7,
+        "reason": "Response captures the essence but lacks specific detail and nuance as in the reference"
+    },
+    {
+        "sample_id": 88,
+        "score": 8,
+        "reason": "Response captures key elements but lacks specific details about flouting the maxim of manner."
+    },
+    {
+        "sample_id": 89,
+        "score": 8,
+        "reason": "Response accurately captures the intention of using humor to soften negative news"
+    },
+    {
+        "sample_id": 90,
+        "score": 7,
+        "reason": "Response captures the intention but lacks specific comparison to response_2"
+    },
+    {
+        "sample_id": 91,
+        "score": 8,
+        "reason": "Response accurately captures the intention of expressing enthusiasm for Mexican cuisine and the preference for specific dishes."
+    },
+    {
+        "sample_id": 92,
+        "score": 8,
+        "reason": "Response accurately describes response_1's humorous deflection and entertainment value"
+    },
+    {
+        "sample_id": 93,
+        "score": 7,
+        "reason": "Response captures the essence but lacks specific detail about minimizing quantity and personal experience focus."
+    },
+    {
+        "sample_id": 94,
+        "score": 8,
+        "reason": "Response accurately captures the core intention and preferences described"
+    },
+    {
+        "sample_id": 95,
+        "score": 8,
+        "reason": "Response accurately captures the intention of being vague and evasive, and provides valid reasons for preferring it over a more detailed response."
+    },
+    {
+        "sample_id": 96,
+        "score": 8,
+        "reason": "Response captures core intention but lacks specific comparison to 'response_2'"
+    },
+    {
+        "sample_id": 97,
+        "score": 7,
+        "reason": "Response captures the intention of persuasion and optimism, but misses the specific context of a concert invitation."
+    },
+    {
+        "sample_id": 98,
+        "score": 8,
+        "reason": "Response accurately captures the nuanced perspective and practical considerations emphasized in the reference"
+    },
+    {
+        "sample_id": 99,
+        "score": 8,
+        "reason": "Response captures core intention but lacks specific details about shifting tastes"
+    },
+    {
+        "sample_id": 100,
+        "score": 8,
+        "reason": "Response accurately captures the nuanced and cautious nature of response_1"
+    },
+    {
+        "sample_id": 101,
+        "score": 8,
+        "reason": "Response accurately captures the intention of flouting the maxim of Quantity and preferring a more descriptive, understated approach."
+    },
+    {
+        "sample_id": 102,
+        "score": 8,
+        "reason": "Response accurately captures the indirect nature and pragmatic intent of 'response_1'"
+    },
+    {
+        "sample_id": 103,
+        "score": 8,
+        "reason": "Response captures the intention of exaggeration and playfulness for a positive impression"
+    },
+    {
+        "sample_id": 104,
+        "score": 8,
+        "reason": "Response accurately captures the reassuring and supportive nature of Response 1"
+    },
+    {
+        "sample_id": 105,
+        "score": 7,
+        "reason": "Response captures main points but lacks specific reference to transparency and avoiding ambiguity"
+    },
+    {
+        "sample_id": 106,
+        "score": 7,
+        "reason": "Captures main points but lacks specific details from reference"
+    },
+    {
+        "sample_id": 107,
+        "score": 8,
+        "reason": "Response accurately captures the pragmatic intention of redirecting conversations without validating complaints."
+    },
+    {
+        "sample_id": 108,
+        "score": 8,
+        "reason": "Captures main points but lacks specific reference to boredom and clarity in dissatisfaction."
+    },
+    {
+        "sample_id": 109,
+        "score": 7,
+        "reason": "Response captures the main points but lacks specific details about maintaining a friendly tone."
+    },
+    {
+        "sample_id": 110,
+        "score": 8,
+        "reason": "Response accurately captures the core intention of maintaining uncertainty while expressing a hopeful sentiment."
+    },
+    {
+        "sample_id": 111,
+        "score": 8,
+        "reason": "Captures the main intention but misses specific humor aspect"
+    },
+    {
+        "sample_id": 112,
+        "score": 8,
+        "reason": "Response accurately captures the intention and nuances of 'response_1'"
+    },
+    {
+        "sample_id": 113,
+        "score": 7,
+        "reason": "Response captures key elements but lacks specific mention of irony/humor"
+    },
+    {
+        "sample_id": 114,
+        "score": 8,
+        "reason": "Response accurately captures the humorous and dismissive nature of 'response_1'"
+    },
+    {
+        "sample_id": 115,
+        "score": 8,
+        "reason": "Response accurately captures the pragmatic intention and reasons for preferring response 1 over response 2."
+    },
+    {
+        "sample_id": 116,
+        "score": 8,
+        "reason": "Captures the essence of sincerity and nuance but misses specific details"
+    },
+    {
+        "sample_id": 117,
+        "score": 8,
+        "reason": "Response accurately captures uncertainty and preference over response_2"
+    },
+    {
+        "sample_id": 118,
+        "score": 8,
+        "reason": "Response accurately captures the intention of acknowledging noise as a concern and shifting focus to practical considerations."
+    },
+    {
+        "sample_id": 119,
+        "score": 7,
+        "reason": "Response captures the core intention but lacks specific details about non-verbal cues"
+    },
+    {
+        "sample_id": 120,
+        "score": 7,
+        "reason": "Response covers the main points but lacks specific details about balancing preferences."
+    },
+    {
+        "sample_id": 121,
+        "score": 7,
+        "reason": "Response captures key elements but lacks specific detail about quality and vividness"
+    },
+    {
+        "sample_id": 122,
+        "score": 8,
+        "reason": "Response accurately describes the mocking humor and pragmatic intent behind 'response_1'."
+    },
+    {
+        "sample_id": 123,
+        "score": 7,
+        "reason": "Response captures key points but lacks nuances"
+    },
+    {
+        "sample_id": 124,
+        "score": 8,
+        "reason": "Captures the intention and compares responses appropriately"
+    },
+    {
+        "sample_id": 125,
+        "score": 7,
+        "reason": "Response captures the intention but lacks specific details about humor and deflection."
+    },
+    {
+        "sample_id": 126,
+        "score": 7,
+        "reason": "Response captures main intention but lacks subtlety and indirectness highlighted in reference"
+    },
+    {
+        "sample_id": 127,
+        "score": 8,
+        "reason": "Response accurately captures the humorous and sarcastic nature of 'response_1'"
+    },
+    {
+        "sample_id": 128,
+        "score": 1,
+        "reason": "Response misinterprets the intention as lacking enthusiasm, whereas the reference highlights humor and irony."
+    },
+    {
+        "sample_id": 129,
+        "score": 7,
+        "reason": "Response captures the general idea but misses specific nuances"
+    },
+    {
+        "sample_id": 130,
+        "score": 7,
+        "reason": "Response captures key points but misses subtleties of being vague and evasive"
+    },
+    {
+        "sample_id": 131,
+        "score": 7,
+        "reason": "Response captures the core idea but lacks specific details about humor and resignation."
+    },
+    {
+        "sample_id": 132,
+        "score": 8,
+        "reason": "Response accurately captures flouting Relation maxim and preference for outdoor activities."
+    },
+    {
+        "sample_id": 133,
+        "score": 8,
+        "reason": "Response accurately describes the playful nature and intent of 'response_1'"
+    },
+    {
+        "sample_id": 134,
+        "score": 3,
+        "reason": "Response focuses on pragmatics rather than relation maxim."
+    },
+    {
+        "sample_id": 135,
+        "score": 8,
+        "reason": "Response accurately captures shifting conversation and maintaining friendliness"
+    },
+    {
+        "sample_id": 136,
+        "score": 7,
+        "reason": "Response captures general idea but misses specific details"
+    },
+    {
+        "sample_id": 137,
+        "score": 7,
+        "reason": "Response captures key points but misses specific emphasis on exaggeration and concern"
+    },
+    {
+        "sample_id": 138,
+        "score": 8,
+        "reason": "Response captures relation flouting and avoids direct seniority comparison effectively"
+    },
+    {
+        "sample_id": 139,
+        "score": 8,
+        "reason": "Response accurately describes the indirect questioning and emotional exploration intended in response_1"
+    },
+    {
+        "sample_id": 140,
+        "score": 8,
+        "reason": "Captures the essence of acknowledging initial discomfort and willingness to adapt, explaining preferences effectively."
+    },
+    {
+        "sample_id": 141,
+        "score": 7,
+        "reason": "Response captures main intention but lacks specific details about addressing relation maxim and empathy"
+    },
+    {
+        "sample_id": 142,
+        "score": 8,
+        "reason": "Response captures the core intention but lacks specific alignment with the reference's detailed context."
+    },
+    {
+        "sample_id": 143,
+        "score": 2,
+        "reason": "Response focuses on humor rather than seeking clarification"
+    },
+    {
+        "sample_id": 144,
+        "score": 3,
+        "reason": "Response focuses on pragmatism but misses key aspects of indirectness and politeness"
+    },
+    {
+        "sample_id": 145,
+        "score": 6,
+        "reason": "Response captures key points but misinterprets the core intent of flouting Relation maxim."
+    },
+    {
+        "sample_id": 146,
+        "score": 8,
+        "reason": "The response accurately captures the pragmatic intention and preferences described in the reference"
+    },
+    {
+        "sample_id": 147,
+        "score": 8,
+        "reason": "Response accurately captures the nuanced intention and pragmatic benefits of 'response_1'"
+    },
+    {
+        "sample_id": 148,
+        "score": 3,
+        "reason": "Response focuses on pragmatics without mentioning sarcasm or quality."
+    },
+    {
+        "sample_id": 149,
+        "score": 7,
+        "reason": "Response captures general idea but lacks specific match to reference"
+    },
+    {
+        "sample_id": 150,
+        "score": 8,
+        "reason": "Response accurately captures the ironic and imaginative humor intended in 'response_1'"
+    },
+    {
+        "sample_id": 151,
+        "score": 1,
+        "reason": "Response misinterprets the original intention as declining an invitation, not providing a personal reaction to a concert."
+    },
+    {
+        "sample_id": 152,
+        "score": 4,
+        "reason": "Response misses core nuance about humor and irony."
+    },
+    {
+        "sample_id": 153,
+        "score": 7,
+        "reason": "Response captures the essence but lacks specific mention of electronic music and 'beat drop'."
+    },
+    {
+        "sample_id": 154,
+        "score": 7,
+        "reason": "Response captures general intent but lacks specific nuances of the reference"
+    },
+    {
+        "sample_id": 155,
+        "score": 8,
+        "reason": "Response accurately captures the intention of providing a modest and honest account of musical experience."
+    },
+    {
+        "sample_id": 156,
+        "score": 7,
+        "reason": "Response captures key aspects but lacks depth in philosophy and vagueness"
+    },
+    {
+        "sample_id": 157,
+        "score": 8,
+        "reason": "Response captures main intention but lacks specific details about engagement and relatability."
+    },
+    {
+        "sample_id": 158,
+        "score": 9,
+        "reason": "Response accurately captures the intention of sharing casual plans without being overly specific."
+    },
+    {
+        "sample_id": 159,
+        "score": 3,
+        "reason": "Response lacks specific details about understated sarcasm and humor"
+    },
+    {
+        "sample_id": 160,
+        "score": 1,
+        "reason": "Response focuses on honesty rather than humor and softening criticism."
+    },
+    {
+        "sample_id": 161,
+        "score": 7,
+        "reason": "Response captures key points but lacks specific mention of relation maxim flouting"
+    },
+    {
+        "sample_id": 162,
+        "score": 8,
+        "reason": "Response accurately captures the intention of flouting Relation maxim and preferring response over response_2."
+    },
+    {
+        "sample_id": 163,
+        "score": 8,
+        "reason": "Response accurately captures the preference for novels and pragmatic reasons for choosing one response over another."
+    },
+    {
+        "sample_id": 164,
+        "score": 3,
+        "reason": "Response focuses on pragmatism rather than relation maxim violation"
+    },
+    {
+        "sample_id": 165,
+        "score": 1,
+        "reason": "Response focuses on expressing personal preference rather than flouting Relation maxim"
+    },
+    {
+        "sample_id": 166,
+        "score": 8,
+        "reason": "Response accurately describes the positive intent and appropriateness of response_1 compared to response_2."
+    },
+    {
+        "sample_id": 167,
+        "score": 8,
+        "reason": "Response accurately captures the nuanced preference and conditional nature of the intended reply."
+    },
+    {
+        "sample_id": 168,
+        "score": 7,
+        "reason": "Response accurately describes the pragmatic intention but lacks specific mention of avoiding personal information"
+    },
+    {
+        "sample_id": 169,
+        "score": 6,
+        "reason": "Response captures essence but lacks specific mention of humor and subtlety"
+    },
+    {
+        "sample_id": 170,
+        "score": 7,
+        "reason": "Response captures key aspects but misses specific details about quality and metaphor"
+    },
+    {
+        "sample_id": 171,
+        "score": 8,
+        "reason": "Response accurately captures enthusiasm and openness, though lacks specific mention of culinary knowledge."
+    },
+    {
+        "sample_id": 172,
+        "score": 8,
+        "reason": "The response accurately captures the intention, offering a balanced critique with practical value."
+    },
+    {
+        "sample_id": 173,
+        "score": 8,
+        "reason": "Response accurately captures the positive and informative nature of 'response_1', aligning well with the reference intention."
+    },
+    {
+        "sample_id": 174,
+        "score": 1,
+        "reason": "Response deviates from the intended humor and camaraderie, focusing on social preferences rather than the context of suggesting a drink."
+    },
+    {
+        "sample_id": 175,
+        "score": 8,
+        "reason": "Response captures key aspects of the intention but lacks specific details about sarcasm and lightheartedness."
+    },
+    {
+        "sample_id": 176,
+        "score": 8,
+        "reason": "Response captures the polite refusal and offering of an alternative but misses the emphasis on avoiding confrontation."
+    },
+    {
+        "sample_id": 177,
+        "score": 7,
+        "reason": "Response captures the essence of vagueness and implied ambition but lacks specific details about Manner maxim."
+    },
+    {
+        "sample_id": 178,
+        "score": 8,
+        "reason": "Response accurately captures the core intention of expressing relief and anticipation, and highlights its emotional impact."
+    },
+    {
+        "sample_id": 179,
+        "score": 8,
+        "reason": "Response accurately captures the core intention and preferences expressed in the reference"
+    },
+    {
+        "sample_id": 180,
+        "score": 6,
+        "reason": "Response captures general concept but lacks specific details about irony or softening"
+    },
+    {
+        "sample_id": 181,
+        "score": 8,
+        "reason": "Response accurately describes the intention of providing specific magazine interests and suggests a productive conversation."
+    },
+    {
+        "sample_id": 182,
+        "score": 8,
+        "reason": "Response accurately captures the intention and preferences described in the reference"
+    },
+    {
+        "sample_id": 183,
+        "score": 8,
+        "reason": "Response accurately captures the intention of indirect suggestion and humor while avoiding a direct negative answer."
+    },
+    {
+        "sample_id": 184,
+        "score": 8,
+        "reason": "Captures key aspects of Manner maxim flouting and preference for response 1 over response 2"
+    },
+    {
+        "sample_id": 185,
+        "score": 7,
+        "reason": "Response captures key points but misses specific nuances of relation maxim and politeness"
+    },
+    {
+        "sample_id": 186,
+        "score": 8,
+        "reason": "Response accurately captures the intention of providing a nuanced answer without directly claiming management experience."
+    },
+    {
+        "sample_id": 187,
+        "score": 3,
+        "reason": "Response focuses on avoidance rather than clarity as intended"
+    },
+    {
+        "sample_id": 188,
+        "score": 7,
+        "reason": "Response captures core intention but lacks specific details about avoiding commitment."
+    },
+    {
+        "sample_id": 189,
+        "score": 1,
+        "reason": "Response focuses on adaptability vs. analysis, but does not mention being a good-rounded employee or avoiding revealing vulnerabilities."
+    },
+    {
+        "sample_id": 190,
+        "score": 7,
+        "reason": "While capturing the intent, the response lacks specific mention of sarcasm and humor."
+    },
+    {
+        "sample_id": 191,
+        "score": 9,
+        "reason": "Response accurately captures the core intention and provides valid reasons for preferring response_1."
+    },
+    {
+        "sample_id": 192,
+        "score": 3,
+        "reason": "Response focuses on politeness rather than irony and lacks key details about the humorous intent."
+    },
+    {
+        "sample_id": 193,
+        "score": 8,
+        "reason": "Response accurately captures the intention, highlighting directness and honesty in expressing job boredom."
+    },
+    {
+        "sample_id": 194,
+        "score": 7,
+        "reason": "Response captures general idea but lacks specific details about sarcasm and quality."
+    },
+    {
+        "sample_id": 195,
+        "score": 8,
+        "reason": "Response accurately captures key aspects of the reference intention"
+    },
+    {
+        "sample_id": 196,
+        "score": 8,
+        "reason": "Response captures key aspects but lacks specific examples from the reference"
+    },
+    {
+        "sample_id": 197,
+        "score": 8,
+        "reason": "Response captures the essence of flouting Quantity maxim and providing a nuanced, pragmatic reply."
+    },
+    {
+        "sample_id": 198,
+        "score": 8,
+        "reason": "Response captures core intention but lacks specificity about avoiding commitment"
+    },
+    {
+        "sample_id": 199,
+        "score": 8,
+        "reason": "Response accurately captures the humorous, self-aware nature of 'response_1', and explains its preference over 'response_2' well."
+    },
+    {
+        "sample_id": 200,
+        "score": 8,
+        "reason": "Captures main points but lacks specific details about positive feedback and upbeat interaction."
+    }
+]

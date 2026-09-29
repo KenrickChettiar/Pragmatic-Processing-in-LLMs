@@ -1,0 +1,1002 @@
+[
+    {
+        "sample_id": 1,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of humor, conditional interest, and skepticism in 'response_1', and explains why someone would prefer it over a purely engaging read."
+    },
+    {
+        "sample_id": 2,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of direct, honest dislike, and explains why a speaker would choose that approach over a more polite one."
+    },
+    {
+        "sample_id": 3,
+        "score": 9,
+        "reason": "The response accurately captures the intention of providing constructive feedback focused on improvement, mirroring the reference's description."
+    },
+    {
+        "sample_id": 4,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of collaboratively addressing a shared responsibility and avoiding blame, mirroring the reference's description."
+    },
+    {
+        "sample_id": 5,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic intention of the original response, highlighting the desire to downplay intensity and avoid a direct answer while maintaining a light tone."
+    },
+    {
+        "sample_id": 6,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic, indirect intention of downplaying the importance of people and avoiding sensitive topics, aligning with the reference."
+    },
+    {
+        "sample_id": 7,
+        "score": 9,
+        "reason": "The response accurately captures the nuanced intention of playfully suggesting alternatives while maintaining a relaxed and flexible tone, mirroring the reference."
+    },
+    {
+        "sample_id": 8,
+        "score": 9,
+        "reason": "The model accurately describes the pragmatic intention—the hedge and selective enthusiasm—behind response_1, and why someone would prefer it over a more direct response."
+    },
+    {
+        "sample_id": 9,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of flouting the Relation maxim and the pragmatic reason for preferring 'response_1' over a more direct response."
+    },
+    {
+        "sample_id": 10,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying previous advice and offering a justification (exhaustion) for a small drink, aligning with the reference."
+    },
+    {
+        "sample_id": 11,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of shifting blame and avoiding responsibility as the core purpose of 'response_1', and contrasts it well with 'response_2'’s honest approach."
+    },
+    {
+        "sample_id": 12,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 – to establish a welcoming tone and foster connection – and effectively contrasts it with the potential drawbacks of response_2."
+    },
+    {
+        "sample_id": 13,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic intention, the desire to challenge assumptions about spontaneity, and the pragmatic goal of prompting deeper reflection."
+    },
+    {
+        "sample_id": 14,
+        "score": 9,
+        "reason": "The model accurately identified the humorous and ironic intention of the response, explaining the downplaying of activity and the desire for a relaxed pace."
+    },
+    {
+        "sample_id": 15,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiasm and connection-building, referencing the example and contrasting it with a more neutral response."
+    },
+    {
+        "sample_id": 16,
+        "score": 9,
+        "reason": "The response accurately and thoroughly explains the intended pragmatic intention—the indirect expression of dissatisfaction—and why 'response_1' is preferred over a potentially flippant 'response_2'."
+    },
+    {
+        "sample_id": 17,
+        "score": 9,
+        "reason": "The response accurately and thoroughly explains the speaker's intention of hesitant willingness, referencing the cautious tone and avoidance of strong endorsement/assessment."
+    },
+    {
+        "sample_id": 18,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic, playful intention of avoiding a direct answer about gym visits, aligning with the reference."
+    },
+    {
+        "sample_id": 19,
+        "score": 9,
+        "reason": "The response accurately and thoroughly explains the intention behind 'response_1' compared to 'response_2', aligning with the reference."
+    },
+    {
+        "sample_id": 20,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 – to explain unfinished tasks and avoid appearing flippant – and justifies why it's preferred over a potentially ambiguous or dismissive response."
+    },
+    {
+        "sample_id": 21,
+        "score": 9,
+        "reason": "The model accurately identified the humorous and ironic intention of the response, explaining how it aims to lighten the mood and deflect seriousness."
+    },
+    {
+        "sample_id": 22,
+        "score": 9,
+        "reason": "The model accurately describes the intention—downplaying dissatisfaction, avoiding direct negativity, and maintaining a diplomatic tone—and provides a solid rationale for preferring 'response_1' over a more direct response."
+    },
+    {
+        "sample_id": 23,
+        "score": 9,
+        "reason": "The response accurately identifies the playful, humorous intention of referencing an unlikely flavor (salmon ice cream) to express enthusiasm and willingness to try something new."
+    },
+    {
+        "sample_id": 24,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of probing Cindy's feelings and seeking clarification, mirroring the reference's description of flouting the relation maxim."
+    },
+    {
+        "sample_id": 25,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the issue with tact and prioritizing the listener's feelings, mirroring the reference."
+    },
+    {
+        "sample_id": 26,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of flouting the Relation maxim by using an idiom to suggest multiple options without explicitly naming them."
+    },
+    {
+        "sample_id": 27,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying interest in art through humor and self-deprecation, mirroring the reference's description."
+    },
+    {
+        "sample_id": 28,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying awkwardness with empathy and a desire for a comfortable, friendly reunion, aligning with the reference."
+    },
+    {
+        "sample_id": 29,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of solidarity and shared experience, and correctly explains why 'response_1' is preferred over 'response_2'."
+    },
+    {
+        "sample_id": 30,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of ‘response_1’ – conveying stability and shared history – and effectively contrasts it with a potential negative interpretation of ‘response_2’."
+    },
+    {
+        "sample_id": 31,
+        "score": 9,
+        "reason": "The model accurately identified the ironic/rhetorical intention—emphasizing enthusiasm and commitment—and why someone would choose it over a more open-ended response."
+    },
+    {
+        "sample_id": 32,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the situation and minimizing Natalie's concerns, mirroring the reference's description."
+    },
+    {
+        "sample_id": 33,
+        "score": 9,
+        "reason": "The response accurately identifies the empathetic and supportive intention behind 'response_1', highlighting the desire to avoid judgment and foster a safe space for sharing."
+    },
+    {
+        "sample_id": 34,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of response_1 – a deep personal connection and sentimental attachment – and effectively explains why it's preferable to a more general response."
+    },
+    {
+        "sample_id": 35,
+        "score": 9,
+        "reason": "The model accurately identified the intention of immediate helpfulness and the pragmatic preference for direct action over polite acknowledgment, aligning with the reference."
+    },
+    {
+        "sample_id": 36,
+        "score": 9,
+        "reason": "The model accurately identified the intention of minimizing enthusiasm and avoiding a strong statement, aligning with the reference's description."
+    },
+    {
+        "sample_id": 37,
+        "score": 9,
+        "reason": "The model accurately identified the intention of downplaying change while acknowledging exploration, mirroring the reference's description of a cautious and pragmatic response."
+    },
+    {
+        "sample_id": 38,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic and playful intention behind 'response_1', explaining the use of 'lounge lizard' and the fantasized activity. It also correctly notes the pragmatic reason for preferring this response."
+    },
+    {
+        "sample_id": 39,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the issue and avoiding confrontation, aligning with the reference's description."
+    },
+    {
+        "sample_id": 40,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying distance and avoiding awkwardness, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 41,
+        "score": 9,
+        "reason": "The model accurately identified the intention of humor and tension-diffusing, mirroring the reference perfectly."
+    },
+    {
+        "sample_id": 42,
+        "score": 9,
+        "reason": "The model accurately identified the flouting of the Relation maxim, the desire for a more meaningful interaction, and the context of a potential agenda beyond simple socializing."
+    },
+    {
+        "sample_id": 43,
+        "score": 9,
+        "reason": "The model accurately identified the intention of enthusiasm and openness, and correctly explained why response_1 is preferred over a more polite/hesitant response."
+    },
+    {
+        "sample_id": 44,
+        "score": 9,
+        "reason": "The model accurately identifies the indirectness, downplaying, and avoidance of criticism as the intention behind 'response_1', mirroring the reference's explanation."
+    },
+    {
+        "sample_id": 45,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiasm and openness, and effectively explains why 'response_1' is preferred over 'response_2' in the given context."
+    },
+    {
+        "sample_id": 46,
+        "score": 9,
+        "reason": "The response accurately identifies the playful metaphor, irony, and desire to maintain a casual and friendly tone, aligning with the reference intention."
+    },
+    {
+        "sample_id": 47,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of acknowledging and expressing gratitude, aligning with the reference's description of a sincere and responsible response."
+    },
+    {
+        "sample_id": 48,
+        "score": 9,
+        "reason": "The model accurately identified the intention of downplaying challenges and persuading the listener with tact, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 49,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic intention, the desire to downplay significance, and the pragmatic goal of creating a relaxed atmosphere. Excellent capture."
+    },
+    {
+        "sample_id": 50,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of providing a nuanced and honest account of workload variability, mirroring the reference."
+    },
+    {
+        "sample_id": 51,
+        "score": 9,
+        "reason": "The response accurately identifies the playful, hesitant, and ultimately optimistic intention behind 'response_1', and effectively explains why it's preferred over a more straightforward response."
+    },
+    {
+        "sample_id": 52,
+        "score": 9,
+        "reason": "The model accurately identifies the core intention of deflecting concern and minimizing gaming activity, aligning with the reference."
+    },
+    {
+        "sample_id": 53,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of avoiding a direct answer by shifting focus to the lawnmower's condition and offering a conditional lending."
+    },
+    {
+        "sample_id": 54,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the situation, avoiding oversharing, and maintaining a polite boundary, mirroring the reference."
+    },
+    {
+        "sample_id": 55,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous, playful intention behind 'response_1', and explains why someone would prefer it over a more serious response."
+    },
+    {
+        "sample_id": 56,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of the reference response – polite refusal with open future possibility – and provides a solid rationale for why someone might prefer it."
+    },
+    {
+        "sample_id": 57,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic and dismissive intention behind 'response_1,' explaining how it avoids a direct answer and sets a tone for a personalized reading experience."
+    },
+    {
+        "sample_id": 58,
+        "score": 9,
+        "reason": "The model accurately captures the intention of offering practical help and demonstrating empathy, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 59,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying preference, showing openness while maintaining familiarity, and the pragmatic reason for choosing this response."
+    },
+    {
+        "sample_id": 60,
+        "score": 9,
+        "reason": "The model accurately captures the intention of avoiding direct criticism and focusing on the speaker's (Mrs. Smith's) style to soften a potentially negative response."
+    },
+    {
+        "sample_id": 61,
+        "score": 9,
+        "reason": "The response accurately describes the intention of minimizing dissatisfaction and prioritizing a positive atmosphere, aligning with the reference."
+    },
+    {
+        "sample_id": 62,
+        "score": 9,
+        "reason": "The model accurately identified the playful irony and the intention to avoid a direct statement of leaving, highlighting the pragmatic reason and the desired effect on the conversation."
+    },
+    {
+        "sample_id": 63,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic intention, the pragmatic reason for choosing it, and its function in the conversation—a realistic check and encouragement of alternative solutions."
+    },
+    {
+        "sample_id": 64,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of downplaying exclusivity and promoting openness, mirroring the reference's description."
+    },
+    {
+        "sample_id": 65,
+        "score": 9,
+        "reason": "The response accurately identifies the enthusiastic endorsement and the pragmatic intention of agreement and conviction, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 66,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of 'response_1' – expressing strong emotional commitment and prioritizing desire over rational considerations – and effectively contrasts it with 'response_2'."
+    },
+    {
+        "sample_id": 67,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of conveying enthusiasm and excitement, mirroring the reference's description. The explanation of 'I adore them' and its effect on the listener is well-articulated."
+    },
+    {
+        "sample_id": 68,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of subtly conveying reading preferences and steering the conversation towards lesser-known books, aligning with the reference."
+    },
+    {
+        "sample_id": 69,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of avoiding art/culture discussion and provides a solid rationale for preferring 'response_1' over a hypothetical 'response_2' based on politeness and avoiding awkwardness."
+    },
+    {
+        "sample_id": 70,
+        "score": 9,
+        "reason": "The model accurately identified the intention of downplaying unhappiness and avoiding a direct admission, aligning with the reference."
+    },
+    {
+        "sample_id": 71,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of minimizing concern and avoiding conflict, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 72,
+        "score": 9,
+        "reason": "The response accurately and comprehensively explains the intention behind 'response_1' as a way to disengage and steer the conversation, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 73,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of seeking clarification about a colleague's absence with a playful tone, aligning with the reference."
+    },
+    {
+        "sample_id": 74,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiasm and eagerness, and provides solid reasoning for preferring response_1 over response_2 based on clarity and tone."
+    },
+    {
+        "sample_id": 75,
+        "score": 9,
+        "reason": "The response accurately identifies the playful irony, deflection, and humorous strategy behind 'response_1', aligning with the reference intention."
+    },
+    {
+        "sample_id": 76,
+        "score": 9,
+        "reason": "The model accurately identified the flouting of the maxim of quantity and the nuanced intention of expressing hesitation while acknowledging the potential quality of the food. The explanation of why someone would prefer response_1 is also well-reasoned."
+    },
+    {
+        "sample_id": 77,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 as conveying freedom and availability, and effectively explains why someone would prefer it over a sarcastic response."
+    },
+    {
+        "sample_id": 78,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of surprise, gratitude, and downplaying generosity, mirroring the reference's description."
+    },
+    {
+        "sample_id": 79,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of the response as a cautious expression of concern and skepticism, aligning with the reference."
+    },
+    {
+        "sample_id": 80,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying a direct answer and avoiding commitment, aligning with the reference."
+    },
+    {
+        "sample_id": 81,
+        "score": 9,
+        "reason": "The model accurately identified the intention of enthusiastic acceptance and eagerness to reconnect, mirroring the reference's description."
+    },
+    {
+        "sample_id": 82,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of acknowledging concern and apologizing, mirroring the reference's description of 'response_1'."
+    },
+    {
+        "sample_id": 83,
+        "score": 9,
+        "reason": "The response accurately identifies the optimistic and reassuring intention of response_1, and effectively explains why someone would prefer it over a more blunt response."
+    },
+    {
+        "sample_id": 84,
+        "score": 9,
+        "reason": "The response accurately identifies the regret and desire to have attended, aligning with the reference intention. It also effectively explains the context and why 'response_1' is preferred."
+    },
+    {
+        "sample_id": 85,
+        "score": 9,
+        "reason": "The response accurately captures the intention of downplaying disappointment and attributing the weather's unpredictability to avoid blame, aligning with the reference."
+    },
+    {
+        "sample_id": 86,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of diverting attention and minimizing conflict through the offer of earplugs, aligning with the reference."
+    },
+    {
+        "sample_id": 87,
+        "score": 9,
+        "reason": "The response accurately identified the intention of response_1 – a nuanced preference for classic music alongside a willingness to consider new music – and explained why it's a better fit than response_2."
+    },
+    {
+        "sample_id": 88,
+        "score": 9,
+        "reason": "The model accurately identified the playful, vague intention of 'response_1' and its purpose to convey freedom and relaxation, contrasting it effectively with 'response_2'."
+    },
+    {
+        "sample_id": 89,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of downplaying a negative with humor and building rapport, mirroring the reference's description."
+    },
+    {
+        "sample_id": 90,
+        "score": 9,
+        "reason": "The model accurately identified the intention of response_1 – acknowledging, offering assistance, and resolving the inconvenience – and effectively contrasted it with a potential inappropriate response (response_2)."
+    },
+    {
+        "sample_id": 91,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiastic expression and personal fondness, aligning with the reference. The explanation of why someone would prefer 'response_1' is also well-reasoned and directly related to the described intention."
+    },
+    {
+        "sample_id": 92,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous intention of avoiding uncertainty and using a light-hearted tone, aligning with the reference."
+    },
+    {
+        "sample_id": 93,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying concerns and alleviating anxiety, mirroring the reference's description perfectly."
+    },
+    {
+        "sample_id": 94,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiastically accepting the invitation and desiring to relax, mirroring the reference's description."
+    },
+    {
+        "sample_id": 95,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of vagueness and indirectness to soften the impact and avoid negativity, aligning with the reference."
+    },
+    {
+        "sample_id": 96,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of gratitude, appreciation, and initiating a conversation, aligning with the reference."
+    },
+    {
+        "sample_id": 97,
+        "score": 9,
+        "reason": "The model accurately identified the ironic and playful intention of response_1, highlighting the humor and gentle boundaries while emphasizing enthusiasm and willingness to participate."
+    },
+    {
+        "sample_id": 98,
+        "score": 9,
+        "reason": "The model accurately captures the nuanced intention of response_1, explaining the pragmatic value of a qualified, context-sensitive answer over a simplistic one."
+    },
+    {
+        "sample_id": 99,
+        "score": 9,
+        "reason": "The response accurately identifies the speaker's attempt to downplay their changing preferences and avoid appearing vulnerable, aligning with the reference intention."
+    },
+    {
+        "sample_id": 100,
+        "score": 9,
+        "reason": "The response accurately captures the nuanced intention of expressing restrained interest and polite openness, aligning with the reference."
+    },
+    {
+        "sample_id": 101,
+        "score": 9,
+        "reason": "The model accurately identifies the downplaying intention and the desire to avoid alarm, aligning with the reference's description."
+    },
+    {
+        "sample_id": 102,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 as a probe for motivation and a redirection to avoid direct disclosure, aligning with the reference."
+    },
+    {
+        "sample_id": 103,
+        "score": 9,
+        "reason": "The model accurately identified the intention of exaggeration and humor to convey extroversion and establish a positive rapport, mirroring the reference."
+    },
+    {
+        "sample_id": 104,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the initial comment, offering reassurance and a realistic perspective, aligning with the reference."
+    },
+    {
+        "sample_id": 105,
+        "score": 9,
+        "reason": "The response accurately identifies the speaker's intention to soften the answer and provide a nuanced explanation about weekend work, aligning with the reference."
+    },
+    {
+        "sample_id": 106,
+        "score": 9,
+        "reason": "The model accurately identifies the playful deflection and the desire to maintain a friendly tone, mirroring the reference's intention."
+    },
+    {
+        "sample_id": 107,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of normalizing inexperience and mitigating criticism, mirroring the reference's description."
+    },
+    {
+        "sample_id": 108,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of expressing boredom and lack of challenge, and explains why 'response_1' is preferred over 'response_2' due to its casual and relatable tone."
+    },
+    {
+        "sample_id": 109,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of the reference, highlighting the polite decline and avoidance of false impressions. The reasoning for preferring 'response_1' is also well-articulated and aligns with the provided explanation."
+    },
+    {
+        "sample_id": 110,
+        "score": 9,
+        "reason": "The model accurately described the intention of downplaying the commute, expressing optimism, and avoiding commitment, aligning with the reference."
+    },
+    {
+        "sample_id": 111,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of flouting the Relation maxim with humor and implied benefits, and explains why someone would prefer it."
+    },
+    {
+        "sample_id": 112,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of downplaying the mess with humor and avoiding alarming Natalie, aligning perfectly with the reference."
+    },
+    {
+        "sample_id": 113,
+        "score": 9,
+        "reason": "The response accurately identifies the pragmatic intention of downplaying drawbacks with a neutral focus, and explains why someone would prefer this approach to avoid negative engagement."
+    },
+    {
+        "sample_id": 114,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous intention of downplaying the importance of location due to coffee, and explains why someone would prefer it over a more serious answer."
+    },
+    {
+        "sample_id": 115,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of reassuring the dad, minimizing the distraction, and maintaining responsibility, aligning with the reference."
+    },
+    {
+        "sample_id": 116,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying stress and highlighting positive aspects, aligning with the reference."
+    },
+    {
+        "sample_id": 117,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of expressing uncertainty and seeking more information, and effectively explains why response_1 is preferred over a more assertive response."
+    },
+    {
+        "sample_id": 118,
+        "score": 9,
+        "reason": "The model accurately identifies the intention to shift focus from height to noise, and explains why a listener might prefer this pragmatic response."
+    },
+    {
+        "sample_id": 119,
+        "score": 9,
+        "reason": "The model accurately identified the intention of flouting the relation maxim and prioritizing a preference for a local diner over a high-end restaurant."
+    },
+    {
+        "sample_id": 120,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of conveying a neutral stance and avoiding commitment, aligning with the reference's description."
+    },
+    {
+        "sample_id": 121,
+        "score": 9,
+        "reason": "The model accurately identified the intention of response_1 – the desire to express deep engagement and a vivid, relatable experience – and effectively explained why someone would prefer it over a more general response."
+    },
+    {
+        "sample_id": 122,
+        "score": 9,
+        "reason": "The response accurately identifies the intention—downplaying, mocking, and diffusing tension—and explains why someone would prefer it over a more direct approach."
+    },
+    {
+        "sample_id": 123,
+        "score": 9,
+        "reason": "The response accurately captures the intention of downplaying the human aspect and emphasizing processes, aligning with the reference."
+    },
+    {
+        "sample_id": 124,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of expressing monotony and seeking something more engaging, and explains why someone would prefer it over a more attention-grabbing response."
+    },
+    {
+        "sample_id": 125,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of playfully deflecting interest in art and culture with sarcasm, and why someone would prefer it over a more direct response."
+    },
+    {
+        "sample_id": 126,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of subtly shifting focus from magazines to novels, highlighting the pragmatic goal of avoiding unwanted topics and building rapport."
+    },
+    {
+        "sample_id": 127,
+        "score": 9,
+        "reason": "The model accurately identified the playful teasing, sarcasm, and desire to lighten the mood as the intention behind 'response_1', aligning with the reference."
+    },
+    {
+        "sample_id": 128,
+        "score": 9,
+        "reason": "The model accurately identified the intention of humor, irony, and enthusiasm behind 'response_1', and why it's preferred over a more factual response."
+    },
+    {
+        "sample_id": 129,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying interest in the latest movies to avoid a direct answer, mirroring the reference's explanation."
+    },
+    {
+        "sample_id": 130,
+        "score": 9,
+        "reason": "The response accurately identifies the downplaying intention, the avoidance of confrontation, and the use of politeness as the reason for preferring 'response_1' over a more direct response."
+    },
+    {
+        "sample_id": 131,
+        "score": 9,
+        "reason": "The response accurately identifies the intention—downplaying the negative impact and presenting a relatable, adaptable attitude—and provides a solid rationale for why someone would choose that response."
+    },
+    {
+        "sample_id": 132,
+        "score": 9,
+        "reason": "The response accurately identifies the deflection strategy and the desire to shift to a more relatable topic (outdoor activities) as the intention behind 'response_1'."
+    },
+    {
+        "sample_id": 133,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous exaggeration and playful sarcasm as the intention behind 'response_1', and why someone would prefer it over a more direct answer."
+    },
+    {
+        "sample_id": 134,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of indirectly expressing a preference for older music by avoiding direct criticism of newer music, aligning with the reference."
+    },
+    {
+        "sample_id": 135,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of flouting the relation maxim, the playful tone, and the desire to gently steer the conversation back to books while building rapport."
+    },
+    {
+        "sample_id": 136,
+        "score": 9,
+        "reason": "The response accurately identifies the pragmatic intention of downplaying risk and avoiding conflict, aligning with the reference."
+    },
+    {
+        "sample_id": 137,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of emphasizing concern and highlighting the steep learning curve, aligning with the reference."
+    },
+    {
+        "sample_id": 138,
+        "score": 9,
+        "reason": "The response accurately captures the intention of downplaying seniority and emphasizing a desire for a different environment, aligning with the provided reference."
+    },
+    {
+        "sample_id": 139,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of subtly questioning Cindy's motivation, highlighting the empathetic approach and desire to shift focus to her feelings."
+    },
+    {
+        "sample_id": 140,
+        "score": 9,
+        "reason": "The response accurately identifies the speaker's attempt to downplay discomfort and the pragmatic reason for choosing this approach over a more direct expression."
+    },
+    {
+        "sample_id": 141,
+        "score": 9,
+        "reason": "The response accurately identifies the empathetic and apologetic intention, explaining how the response diffuses tension and offers Cindy an out."
+    },
+    {
+        "sample_id": 142,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of emphasizing analytical skills and provides relevant examples of when that approach would be preferred, aligning with the reference."
+    },
+    {
+        "sample_id": 143,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of seeking clarification about the movie plan's cancellation due to cleaning, and explains why someone would prefer it over a lighter response."
+    },
+    {
+        "sample_id": 144,
+        "score": 9,
+        "reason": "The model accurately describes the intention of the reference response – politely declining a suggestion while maintaining a lighthearted tone and avoiding direct confrontation."
+    },
+    {
+        "sample_id": 145,
+        "score": 9,
+        "reason": "The response accurately captures the intended intention of downplaying the human's role and emphasizing technical expertise, along with the pragmatic reason for preferring this approach."
+    },
+    {
+        "sample_id": 146,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of mitigating negativity, acknowledging the children's challenging behavior while offering a positive perspective, mirroring the reference."
+    },
+    {
+        "sample_id": 147,
+        "score": 9,
+        "reason": "The model accurately identified the intention of presenting a flexible, context-dependent preference, mirroring the reference's description."
+    },
+    {
+        "sample_id": 148,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic intention, explaining how the speaker uses surprise, annoyance, and gratitude to create a playful and humorous reaction."
+    },
+    {
+        "sample_id": 149,
+        "score": 9,
+        "reason": "The response accurately captures the intention of conveying openness, willingness to communicate concerns, and maintaining a cooperative tone while setting a boundary."
+    },
+    {
+        "sample_id": 150,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic humor and playful intention behind 'response_1,' explaining how it redirects disappointment into a positive experience."
+    },
+    {
+        "sample_id": 151,
+        "score": 9,
+        "reason": "The response accurately identifies the speaker's downplaying of negative sentiment and the pragmatic reason for using this approach – avoiding confrontation and hinting at a negative opinion."
+    },
+    {
+        "sample_id": 152,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic humor and pragmatic intention of the original response, explaining the speaker's awareness of chores and a moderate tone."
+    },
+    {
+        "sample_id": 153,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of conveying a casual, relatable interest in electronic music, highlighting the speaker's desire to appear approachable and not overly enthusiastic."
+    },
+    {
+        "sample_id": 154,
+        "score": 9,
+        "reason": "The model accurately identifies the ironic intention of downplaying travel enthusiasm and the pragmatic goal of appearing relatable/humble. The example is well-reasoned and relevant."
+    },
+    {
+        "sample_id": 155,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying skill and avoiding boasting, aligning with the reference's description."
+    },
+    {
+        "sample_id": 156,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying the duration, deflecting a boast, and creating a more relaxed atmosphere. It effectively explains the pragmatic reasoning behind choosing 'response_1' over 'response_2'."
+    },
+    {
+        "sample_id": 157,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 – to elicit further conversation through enthusiastic sharing of a personal passion. The explanation of how the speaker’s language creates engagement is spot-on."
+    },
+    {
+        "sample_id": 158,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of 'response_1' – moderation, caution, and a desire to avoid appearing reckless or attention-seeking. The comparison with 'response_2' is also well-reasoned."
+    },
+    {
+        "sample_id": 159,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcasm and the speaker's desire to express gratitude and politeness while acknowledging the subway's poor quality."
+    },
+    {
+        "sample_id": 160,
+        "score": 9,
+        "reason": "The model accurately identified the empathetic and supportive intention behind 'response_1', explaining how the metaphor softens criticism and aims to comfort Jim."
+    },
+    {
+        "sample_id": 161,
+        "score": 9,
+        "reason": "The model accurately identified the intention of downplaying concerns, avoiding responsibility, and asserting independence as the core of response_1. The explanation is clear and relevant."
+    },
+    {
+        "sample_id": 162,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of downplaying football involvement, creating a casual and friendly atmosphere, and the pragmatic reasons for preferring this response."
+    },
+    {
+        "sample_id": 163,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying interest in short stories and gently shifting the focus to novels, aligning with the reference."
+    },
+    {
+        "sample_id": 164,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying classical music interest and steering the conversation to preferred genres, aligning with the reference."
+    },
+    {
+        "sample_id": 165,
+        "score": 9,
+        "reason": "The response accurately identifies the flouting of the Relation maxim, the indirectness, and the goal of establishing rapport and a positive tone."
+    },
+    {
+        "sample_id": 166,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of response_1 – empathy, taking responsibility, and offering a solution – and explains why it's preferable to a less considerate approach."
+    },
+    {
+        "sample_id": 167,
+        "score": 9,
+        "reason": "The response accurately identifies the conditional and nuanced preference for pie, highlighting the speaker's reservations and desire for a balanced tone. It effectively explains why someone might prefer this response."
+    },
+    {
+        "sample_id": 168,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of the reference – seeking clarification and subtly hinting at concern about missing an event – and provides relevant justifications."
+    },
+    {
+        "sample_id": 169,
+        "score": 9,
+        "reason": "The model accurately identified the subtle, playful intention behind 'response_1' and explained why someone would prefer it over a more direct statement."
+    },
+    {
+        "sample_id": 170,
+        "score": 9,
+        "reason": "The response accurately identifies the playful exaggeration and metaphor, correctly explaining the intention to downplay enthusiasm and convey comfort subtly."
+    },
+    {
+        "sample_id": 171,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of enthusiasm and willingness to try something new, mirroring the reference's description."
+    },
+    {
+        "sample_id": 172,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of softening criticism, offering reassurance and avoiding conflict, aligning with the reference."
+    },
+    {
+        "sample_id": 173,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of enthusiastic positive feedback, the context of preference, and the reasons for choosing 'response_1' over 'response_2'."
+    },
+    {
+        "sample_id": 174,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of humorously suggesting a drink after a tough day, and explains why someone would prefer it over a more direct rejection."
+    },
+    {
+        "sample_id": 175,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic, teasing intention of 'response_1' and its purpose to build rapport and create a relaxed atmosphere, aligning with the reference."
+    },
+    {
+        "sample_id": 176,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of politely declining with an alternative, mirroring the reference's description of avoiding a negative situation and maintaining politeness."
+    },
+    {
+        "sample_id": 177,
+        "score": 9,
+        "reason": "The response accurately captures the intention—the vague reference to challenges, signaling ambition and a desire for growth, rather than seniority."
+    },
+    {
+        "sample_id": 178,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of expressing relief and excitement about the weekend, and the reasoning behind preferring response_1 is well-explained and aligns with the reference."
+    },
+    {
+        "sample_id": 179,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of enthusiasm and a desire for connection, contrasting it with a less genuine and dismissive approach described in 'response_2'."
+    },
+    {
+        "sample_id": 180,
+        "score": 9,
+        "reason": "The model accurately describes the intention of downplaying, avoiding commitment, and using a polite/sarcastic tone to avoid expressing a strong preference for country music."
+    },
+    {
+        "sample_id": 181,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of response_1 – the desire to be open about reading magazines while qualifying that openness to specific types (travel/science) – and why it's preferred over a more direct statement about novels."
+    },
+    {
+        "sample_id": 182,
+        "score": 9,
+        "reason": "The model accurately identified the intention of response_1 – sharing an engaging experience and building rapport – and effectively contrasted it with the vaguer nature of response_2."
+    },
+    {
+        "sample_id": 183,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous and ironic intention, explaining the use of the phrase and its effect on the conversation."
+    },
+    {
+        "sample_id": 184,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying significance, conveying acceptance, and aiming for neutrality with a humorous metaphor. It also correctly explains why someone would prefer this response."
+    },
+    {
+        "sample_id": 185,
+        "score": 9,
+        "reason": "The model accurately identified the intention of flouting the Relation maxim by softening the negative sentiment and avoiding direct criticism, mirroring the reference."
+    },
+    {
+        "sample_id": 186,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying management experience, highlighting humility and avoiding arrogance – perfectly aligning with the reference."
+    },
+    {
+        "sample_id": 187,
+        "score": 9,
+        "reason": "The model accurately identifies the intention of downplaying salary importance and tactfully avoiding a direct response, mirroring the reference."
+    },
+    {
+        "sample_id": 188,
+        "score": 9,
+        "reason": "The response accurately describes the speaker's hesitancy, avoidance of commitment, and desire to remain non-committal, aligning with the reference intention."
+    },
+    {
+        "sample_id": 189,
+        "score": 9,
+        "reason": "The response accurately identifies the pragmatic intention of downplaying negative implications and presenting a positive tone, aligning with the reference."
+    },
+    {
+        "sample_id": 190,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic intention, the use of personal anecdote, and the desire for relatable sharing over a direct answer."
+    },
+    {
+        "sample_id": 191,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of expressing strong appreciation for lyrics, using the 'poetry in a song' metaphor and highlighting the personal and emotive nature of the response."
+    },
+    {
+        "sample_id": 192,
+        "score": 9,
+        "reason": "The response accurately identifies the ironic humor, polite acceptance, and subtle preference conveyed in 'response_1' and explains why someone would choose it over a more direct response."
+    },
+    {
+        "sample_id": 193,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of expressing dissatisfaction with a routine job and the desire for a candid, honest response, aligning with the reference."
+    },
+    {
+        "sample_id": 194,
+        "score": 9,
+        "reason": "The response accurately identifies the sarcastic intention, the attempt to downplay negative experiences, and the pragmatic reason for choosing that response over a more direct one."
+    },
+    {
+        "sample_id": 195,
+        "score": 9,
+        "reason": "The response accurately identifies the hesitation and openness, and the explanation of the pragmatic intention aligns perfectly with the reference."
+    },
+    {
+        "sample_id": 196,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of acknowledging concern, offering reassurance, and suggesting guidance, aligning with the reference."
+    },
+    {
+        "sample_id": 197,
+        "score": 9,
+        "reason": "The model accurately identifies the speaker's neutral and slightly weary intention, and explains why someone would prefer this response over a more enthusiastic one."
+    },
+    {
+        "sample_id": 198,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of downplaying and avoiding commitment, mirroring the reference's explanation of the strategic use of vagueness."
+    },
+    {
+        "sample_id": 199,
+        "score": 9,
+        "reason": "The response accurately identifies the humorous, self-deprecating intention of the response, and why someone would prefer it to a more serious apology."
+    },
+    {
+        "sample_id": 200,
+        "score": 9,
+        "reason": "The response accurately identifies the intention of sharing a positive sentiment and signaling a transition to the weekend, aligning with the reference."
+    }
+]

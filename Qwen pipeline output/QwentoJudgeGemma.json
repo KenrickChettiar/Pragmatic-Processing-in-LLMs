@@ -1,0 +1,602 @@
+[
+    {
+        "sample_0": 8
+    },
+    {
+        "sample_1": 9
+    },
+    {
+        "sample_2": 9
+    },
+    {
+        "sample_3": 9
+    },
+    {
+        "sample_4": 8
+    },
+    {
+        "sample_5": 7
+    },
+    {
+        "sample_6": 9
+    },
+    {
+        "sample_7": 9
+    },
+    {
+        "sample_8": 9
+    },
+    {
+        "sample_9": 9
+    },
+    {
+        "sample_10": 9
+    },
+    {
+        "sample_11": 9
+    },
+    {
+        "sample_12": 9
+    },
+    {
+        "sample_13": 7
+    },
+    {
+        "sample_14": 9
+    },
+    {
+        "sample_15": 9
+    },
+    {
+        "sample_16": 9
+    },
+    {
+        "sample_17": 8
+    },
+    {
+        "sample_18": 9
+    },
+    {
+        "sample_19": 9
+    },
+    {
+        "sample_20": 9
+    },
+    {
+        "sample_21": 9
+    },
+    {
+        "sample_22": 9
+    },
+    {
+        "sample_23": 9
+    },
+    {
+        "sample_24": 9
+    },
+    {
+        "sample_25": 9
+    },
+    {
+        "sample_26": 8
+    },
+    {
+        "sample_27": 8
+    },
+    {
+        "sample_28": 6
+    },
+    {
+        "sample_29": 8
+    },
+    {
+        "sample_30": 9
+    },
+    {
+        "sample_31": 9
+    },
+    {
+        "sample_32": 8
+    },
+    {
+        "sample_33": 9
+    },
+    {
+        "sample_34": 9
+    },
+    {
+        "sample_35": 9
+    },
+    {
+        "sample_36": 9
+    },
+    {
+        "sample_37": 8
+    },
+    {
+        "sample_38": 9
+    },
+    {
+        "sample_39": 8
+    },
+    {
+        "sample_40": 9
+    },
+    {
+        "sample_41": 9
+    },
+    {
+        "sample_42": 8
+    },
+    {
+        "sample_43": 9
+    },
+    {
+        "sample_44": 9
+    },
+    {
+        "sample_45": 8
+    },
+    {
+        "sample_46": 9
+    },
+    {
+        "sample_47": 9
+    },
+    {
+        "sample_48": 6
+    },
+    {
+        "sample_49": 9
+    },
+    {
+        "sample_50": 8
+    },
+    {
+        "sample_51": 9
+    },
+    {
+        "sample_52": 9
+    },
+    {
+        "sample_53": 9
+    },
+    {
+        "sample_54": 8
+    },
+    {
+        "sample_55": 9
+    },
+    {
+        "sample_56": 9
+    },
+    {
+        "sample_57": 8
+    },
+    {
+        "sample_58": 9
+    },
+    {
+        "sample_59": 9
+    },
+    {
+        "sample_60": 8
+    },
+    {
+        "sample_61": 9
+    },
+    {
+        "sample_62": 8
+    },
+    {
+        "sample_63": 8
+    },
+    {
+        "sample_64": 8
+    },
+    {
+        "sample_65": 9
+    },
+    {
+        "sample_66": 9
+    },
+    {
+        "sample_67": 9
+    },
+    {
+        "sample_68": 8
+    },
+    {
+        "sample_69": 9
+    },
+    {
+        "sample_70": 9
+    },
+    {
+        "sample_71": 9
+    },
+    {
+        "sample_72": 9
+    },
+    {
+        "sample_73": 8
+    },
+    {
+        "sample_74": 9
+    },
+    {
+        "sample_75": 9
+    },
+    {
+        "sample_76": 7
+    },
+    {
+        "sample_77": 8
+    },
+    {
+        "sample_78": 9
+    },
+    {
+        "sample_79": 9
+    },
+    {
+        "sample_80": 8
+    },
+    {
+        "sample_81": 9
+    },
+    {
+        "sample_82": 9
+    },
+    {
+        "sample_83": 8
+    },
+    {
+        "sample_84": 9
+    },
+    {
+        "sample_85": 9
+    },
+    {
+        "sample_86": 9
+    },
+    {
+        "sample_87": 8
+    },
+    {
+        "sample_88": 6
+    },
+    {
+        "sample_89": 9
+    },
+    {
+        "sample_90": 8
+    },
+    {
+        "sample_91": 9
+    },
+    {
+        "sample_92": 9
+    },
+    {
+        "sample_93": 8
+    },
+    {
+        "sample_94": 9
+    },
+    {
+        "sample_95": 7
+    },
+    {
+        "sample_96": 8
+    },
+    {
+        "sample_97": 9
+    },
+    {
+        "sample_98": 9
+    },
+    {
+        "sample_99": 8
+    },
+    {
+        "sample_100": 8
+    },
+    {
+        "sample_101": 8
+    },
+    {
+        "sample_102": 8
+    },
+    {
+        "sample_103": 9
+    },
+    {
+        "sample_104": 9
+    },
+    {
+        "sample_105": 9
+    },
+    {
+        "sample_106": 9
+    },
+    {
+        "sample_107": 9
+    },
+    {
+        "sample_108": 9
+    },
+    {
+        "sample_109": 9
+    },
+    {
+        "sample_110": 9
+    },
+    {
+        "sample_111": 9
+    },
+    {
+        "sample_112": 8
+    },
+    {
+        "sample_113": 9
+    },
+    {
+        "sample_114": 9
+    },
+    {
+        "sample_115": 9
+    },
+    {
+        "sample_116": 9
+    },
+    {
+        "sample_117": 9
+    },
+    {
+        "sample_118": 9
+    },
+    {
+        "sample_119": 9
+    },
+    {
+        "sample_120": 8
+    },
+    {
+        "sample_121": 6
+    },
+    {
+        "sample_122": 9
+    },
+    {
+        "sample_123": 9
+    },
+    {
+        "sample_124": 8
+    },
+    {
+        "sample_125": 9
+    },
+    {
+        "sample_126": 9
+    },
+    {
+        "sample_127": 7
+    },
+    {
+        "sample_128": 9
+    },
+    {
+        "sample_129": 8
+    },
+    {
+        "sample_130": 9
+    },
+    {
+        "sample_131": 8
+    },
+    {
+        "sample_132": 8
+    },
+    {
+        "sample_133": 8
+    },
+    {
+        "sample_134": 7
+    },
+    {
+        "sample_135": 9
+    },
+    {
+        "sample_136": 9
+    },
+    {
+        "sample_137": 9
+    },
+    {
+        "sample_138": 9
+    },
+    {
+        "sample_139": 9
+    },
+    {
+        "sample_140": 9
+    },
+    {
+        "sample_141": 9
+    },
+    {
+        "sample_142": 3
+    },
+    {
+        "sample_143": 9
+    },
+    {
+        "sample_144": 9
+    },
+    {
+        "sample_145": 9
+    },
+    {
+        "sample_146": 9
+    },
+    {
+        "sample_147": 6
+    },
+    {
+        "sample_148": 9
+    },
+    {
+        "sample_149": 9
+    },
+    {
+        "sample_150": 8
+    },
+    {
+        "sample_151": 7
+    },
+    {
+        "sample_152": 3
+    },
+    {
+        "sample_153": 8
+    },
+    {
+        "sample_154": 9
+    },
+    {
+        "sample_155": 9
+    },
+    {
+        "sample_156": 7
+    },
+    {
+        "sample_157": 8
+    },
+    {
+        "sample_158": 9
+    },
+    {
+        "sample_159": 9
+    },
+    {
+        "sample_160": 9
+    },
+    {
+        "sample_161": 7
+    },
+    {
+        "sample_162": 7
+    },
+    {
+        "sample_163": 9
+    },
+    {
+        "sample_164": 9
+    },
+    {
+        "sample_165": 8
+    },
+    {
+        "sample_166": 9
+    },
+    {
+        "sample_167": 8
+    },
+    {
+        "sample_168": 9
+    },
+    {
+        "sample_169": 7
+    },
+    {
+        "sample_170": 9
+    },
+    {
+        "sample_171": 9
+    },
+    {
+        "sample_172": 8
+    },
+    {
+        "sample_173": 8
+    },
+    {
+        "sample_174": 9
+    },
+    {
+        "sample_175": 9
+    },
+    {
+        "sample_176": 9
+    },
+    {
+        "sample_177": 9
+    },
+    {
+        "sample_178": 9
+    },
+    {
+        "sample_179": 9
+    },
+    {
+        "sample_180": 9
+    },
+    {
+        "sample_181": 7
+    },
+    {
+        "sample_182": 9
+    },
+    {
+        "sample_183": 8
+    },
+    {
+        "sample_184": 8
+    },
+    {
+        "sample_185": 9
+    },
+    {
+        "sample_186": 7
+    },
+    {
+        "sample_187": 8
+    },
+    {
+        "sample_188": 8
+    },
+    {
+        "sample_189": 9
+    },
+    {
+        "sample_190": 8
+    },
+    {
+        "sample_191": 8
+    },
+    {
+        "sample_192": 9
+    },
+    {
+        "sample_193": 7
+    },
+    {
+        "sample_194": 8
+    },
+    {
+        "sample_195": 9
+    },
+    {
+        "sample_196": 9
+    },
+    {
+        "sample_197": 9
+    },
+    {
+        "sample_198": 9
+    },
+    {
+        "sample_199": 9
+    }
+]
